@@ -13,7 +13,7 @@ fn main() -> Result<()> {
     args.next();
     let input_file = args.next().context("expected argument")?;
     let bytes = read(input_file).context("failed to open file")?;
-    let mut program = Program::new(bytes);
+    let mut program = Program::new(bytes, 0);
     program.execute();
 
     Ok(())

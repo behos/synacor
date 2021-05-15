@@ -33,13 +33,14 @@ pub struct Program {
 }
 
 impl Program {
-    pub fn new(bytes: Vec<u8>) -> Self {
+    pub fn new(bytes: Vec<u8>, register8: u16) -> Self {
         let mut memory = Memory::new();
         let input_buffer = InputBuffer {
             buffer: vec![],
             cursor: 0,
         };
         memory.load(bytes);
+        memory.set_register(7, register8);
         Self {
             cursor: 0,
             memory,
@@ -92,7 +93,6 @@ impl Program {
     }
 
     fn run_out(&mut self) -> bool {
-        log::debug!("Running out");
         let arg = self.next_value();
         if arg > 127 {
             panic!("Invalid character byte {:?}", arg)
@@ -104,31 +104,35 @@ impl Program {
     }
 
     fn run_input(&mut self) -> bool {
-        log::debug!("Running input");
         let reg = self.next_register();
-        let value = self.input_buffer.next();
-        log::debug!("storing {} to {}", value, reg);
+        let mut value = self.input_buffer.next();
+
+        if value as char == '!' {
+            log::debug!("bypassing register");
+            self.memory.set_register(7, 666);
+            value = self.input_buffer.next()
+        }
+
         self.memory.set_register(reg, value as u16);
         self.cursor += 1;
         false
     }
 
     fn run_jump(&mut self) -> bool {
-        log::debug!("Running jump");
         let arg = self.next_value();
+        log::debug!("jump: {}", arg);
         if (arg as usize) < MAX_ADDR {
             self.cursor = arg as usize
         } else {
-            panic!("Invalid memory address to jump to {:?}", arg)
+            panic!("memory address to jump to {:?}", arg)
         }
         false
     }
 
     fn run_jump_true(&mut self) -> bool {
-        log::debug!("Running jump true");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 2),);
         let cond = self.next_value();
         let arg = self.next_value();
+        log::debug!("jump true: {} {}", cond, arg);
         if cond == 0 {
             self.cursor += 1
         } else {
@@ -138,9 +142,9 @@ impl Program {
     }
 
     fn run_jump_false(&mut self) -> bool {
-        log::debug!("Running jump false");
         let cond = self.next_value();
         let arg = self.next_value();
+        log::debug!("jump true: {} {}", cond, arg);
         if cond != 0 {
             self.cursor += 1
         } else {
@@ -150,135 +154,131 @@ impl Program {
     }
 
     fn run_set(&mut self) -> bool {
-        log::debug!("Running set");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 2),);
         let reg = self.next_register();
         let val = self.next_value();
+        log::debug!("set: {} {}", reg, val);
         self.memory.set_register(reg, val);
         self.cursor += 1;
         false
     }
 
     fn run_push(&mut self) -> bool {
-        log::debug!("Running push");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 1),);
         let val = self.next_value();
+        log::debug!("push: {}", val);
         self.memory.push(val);
         self.cursor += 1;
         false
     }
 
     fn run_pop(&mut self) -> bool {
-        log::debug!("Running pop");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 1),);
         let reg = self.next_register();
         let val = self.memory.pop().expect("Should have a value when popping");
+        log::debug!("pop: {}", val);
         self.memory.set_register(reg, val);
         self.cursor += 1;
         false
     }
 
     fn run_add(&mut self) -> bool {
-        log::debug!("Running add");
+        log::debug!("add");
         self.run_calc(|a, b| a + b)
     }
 
     fn run_modulo(&mut self) -> bool {
-        log::debug!("Running modulo");
+        log::debug!("modulo");
         self.run_calc(|a, b| a % b)
     }
 
     fn run_multiply(&mut self) -> bool {
-        log::debug!("Running multiply");
+        log::debug!("multiply");
         self.run_calc(|a, b| ((a as usize * b as usize) % MAX_INT as usize) as u16)
     }
 
     fn run_and(&mut self) -> bool {
-        log::debug!("Running and");
+        log::debug!("and");
         self.run_calc(|a, b| a & b)
     }
 
     fn run_or(&mut self) -> bool {
-        log::debug!("Running or");
+        log::debug!("or");
         self.run_calc(|a, b| a | b)
     }
 
     fn run_calc(&mut self, calc: impl FnOnce(u16, u16) -> u16) -> bool {
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 3));
         let reg = self.next_register();
         let a = self.next_value();
         let b = self.next_value();
-        self.memory.set_register(reg, calc(a, b) % MAX_INT);
+        let res = calc(a, b) % MAX_INT;
+        log::debug!("set {} {}", reg, res);
+        self.memory.set_register(reg, res);
         self.cursor += 1;
         false
     }
 
     fn run_not(&mut self) -> bool {
-        log::debug!("Running not");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 2));
         let reg = self.next_register();
-        let a = self.next_value();
-        self.memory.set_register(reg, !a % MAX_INT);
+        let val = self.next_value();
+        log::debug!("not: {} {}", reg, val);
+        self.memory.set_register(reg, !val % MAX_INT);
         self.cursor += 1;
         false
     }
 
     fn run_equal(&mut self) -> bool {
-        log::debug!("Running equal");
+        log::debug!("equal");
         self.run_cond(|a, b| a == b)
     }
 
     fn run_greater_than(&mut self) -> bool {
-        log::debug!("Running greater than");
+        log::debug!("greater than");
         self.run_cond(|a, b| a > b)
     }
 
     fn run_cond(&mut self, comp: impl FnOnce(u16, u16) -> bool) -> bool {
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 3));
         let reg = self.next_register();
         let a = self.next_value();
         let b = self.next_value();
-        self.memory
-            .set_register(reg, if comp(a, b) { 1 } else { 0 });
+        log::debug!("comp {} {}", a, b);
+        let val = if comp(a, b) { 1 } else { 0 };
+        log::debug!("set {} {}", reg, val);
+        self.memory.set_register(reg, val);
         self.cursor += 1;
         false
     }
 
     fn run_call(&mut self) -> bool {
-        log::debug!("Running call");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 1));
         let val = self.next_value();
+        log::debug!("call: {}", val);
         self.memory.push((self.cursor + 1) as u16);
         self.cursor = val as usize;
         false
     }
 
     fn run_return(&mut self) -> bool {
-        log::debug!("Running return");
         if let Some(addr) = self.memory.pop() {
             self.cursor = addr as usize;
+            log::debug!("return: {}", addr);
             false
         } else {
+            log::debug!("return root");
             true
         }
     }
 
     fn run_read_mem(&mut self) -> bool {
-        log::debug!("Running read memory");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 2));
         let reg = self.next_register();
         let addr = self.next_value();
         let val = self.memory.at(addr as usize);
+        log::debug!("set: {} {}", reg, val);
         self.memory.set_register(reg, val);
         self.cursor += 1;
         false
     }
 
     fn run_write_mem(&mut self) -> bool {
-        log::debug!("Running write memory");
-        log::debug!("{:?}", self.memory.slice(self.cursor, self.cursor + 2));
         let addr = self.next_value();
         let val = self.next_value();
+        log::debug!("set: {} {}", addr, val);
         self.memory.set(addr as usize, val);
         self.cursor += 1;
         false

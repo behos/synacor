@@ -41,10 +41,6 @@ impl Memory {
         self.memory[index] = value;
     }
 
-    pub fn slice(&self, from: usize, to: usize) -> &[u16] {
-        &self.memory[from..=to]
-    }
-
     pub fn read_register(&self, index: usize) -> u16 {
         // TODO: Check register overflow
         self.registers[index]
