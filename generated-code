@@ -1,0 +1,5196 @@
+[00000] Noop
+[00001] Noop
+[00002] Out(Literal(87))
+[00004] Out(Literal(101))
+[00006] Out(Literal(108))
+[00008] Out(Literal(99))
+[00010] Out(Literal(111))
+[00012] Out(Literal(109))
+[00014] Out(Literal(101))
+[00016] Out(Literal(32))
+[00018] Out(Literal(116))
+[00020] Out(Literal(111))
+[00022] Out(Literal(32))
+[00024] Out(Literal(116))
+[00026] Out(Literal(104))
+[00028] Out(Literal(101))
+[00030] Out(Literal(32))
+[00032] Out(Literal(83))
+[00034] Out(Literal(121))
+[00036] Out(Literal(110))
+[00038] Out(Literal(97))
+[00040] Out(Literal(99))
+[00042] Out(Literal(111))
+[00044] Out(Literal(114))
+[00046] Out(Literal(32))
+[00048] Out(Literal(67))
+[00050] Out(Literal(104))
+[00052] Out(Literal(97))
+[00054] Out(Literal(108))
+[00056] Out(Literal(108))
+[00058] Out(Literal(101))
+[00060] Out(Literal(110))
+[00062] Out(Literal(103))
+[00064] Out(Literal(101))
+[00066] Out(Literal(33))
+[00068] Out(Literal(10))
+[00070] Out(Literal(80))
+[00072] Out(Literal(108))
+[00074] Out(Literal(101))
+[00076] Out(Literal(97))
+[00078] Out(Literal(115))
+[00080] Out(Literal(101))
+[00082] Out(Literal(32))
+[00084] Out(Literal(114))
+[00086] Out(Literal(101))
+[00088] Out(Literal(99))
+[00090] Out(Literal(111))
+[00092] Out(Literal(114))
+[00094] Out(Literal(100))
+[00096] Out(Literal(32))
+[00098] Out(Literal(121))
+[00100] Out(Literal(111))
+[00102] Out(Literal(117))
+[00104] Out(Literal(114))
+[00106] Out(Literal(32))
+[00108] Out(Literal(112))
+[00110] Out(Literal(114))
+[00112] Out(Literal(111))
+[00114] Out(Literal(103))
+[00116] Out(Literal(114))
+[00118] Out(Literal(101))
+[00120] Out(Literal(115))
+[00122] Out(Literal(115))
+[00124] Out(Literal(32))
+[00126] Out(Literal(98))
+[00128] Out(Literal(121))
+[00130] Out(Literal(32))
+[00132] Out(Literal(112))
+[00134] Out(Literal(117))
+[00136] Out(Literal(116))
+[00138] Out(Literal(116))
+[00140] Out(Literal(105))
+[00142] Out(Literal(110))
+[00144] Out(Literal(103))
+[00146] Out(Literal(32))
+[00148] Out(Literal(99))
+[00150] Out(Literal(111))
+[00152] Out(Literal(100))
+[00154] Out(Literal(101))
+[00156] Out(Literal(115))
+[00158] Out(Literal(32))
+[00160] Out(Literal(108))
+[00162] Out(Literal(105))
+[00164] Out(Literal(107))
+[00166] Out(Literal(101))
+[00168] Out(Literal(10))
+[00170] Out(Literal(116))
+[00172] Out(Literal(104))
+[00174] Out(Literal(105))
+[00176] Out(Literal(115))
+[00178] Out(Literal(32))
+[00180] Out(Literal(111))
+[00182] Out(Literal(110))
+[00184] Out(Literal(101))
+[00186] Out(Literal(32))
+[00188] Out(Literal(105))
+[00190] Out(Literal(110))
+[00192] Out(Literal(116))
+[00194] Out(Literal(111))
+[00196] Out(Literal(32))
+[00198] Out(Literal(116))
+[00200] Out(Literal(104))
+[00202] Out(Literal(101))
+[00204] Out(Literal(32))
+[00206] Out(Literal(99))
+[00208] Out(Literal(104))
+[00210] Out(Literal(97))
+[00212] Out(Literal(108))
+[00214] Out(Literal(108))
+[00216] Out(Literal(101))
+[00218] Out(Literal(110))
+[00220] Out(Literal(103))
+[00222] Out(Literal(101))
+[00224] Out(Literal(32))
+[00226] Out(Literal(119))
+[00228] Out(Literal(101))
+[00230] Out(Literal(98))
+[00232] Out(Literal(115))
+[00234] Out(Literal(105))
+[00236] Out(Literal(116))
+[00238] Out(Literal(101))
+[00240] Out(Literal(58))
+[00242] Out(Literal(32))
+[00244] Out(Literal(117))
+[00246] Out(Literal(81))
+[00248] Out(Literal(74))
+[00250] Out(Literal(114))
+[00252] Out(Literal(74))
+[00254] Out(Literal(117))
+[00256] Out(Literal(115))
+[00258] Out(Literal(79))
+[00260] Out(Literal(118))
+[00262] Out(Literal(74))
+[00264] Out(Literal(98))
+[00266] Out(Literal(73))
+[00268] Out(Literal(10))
+[00270] Out(Literal(10))
+[00272] Out(Literal(69))
+[00274] Out(Literal(120))
+[00276] Out(Literal(101))
+[00278] Out(Literal(99))
+[00280] Out(Literal(117))
+[00282] Out(Literal(116))
+[00284] Out(Literal(105))
+[00286] Out(Literal(110))
+[00288] Out(Literal(103))
+[00290] Out(Literal(32))
+[00292] Out(Literal(115))
+[00294] Out(Literal(101))
+[00296] Out(Literal(108))
+[00298] Out(Literal(102))
+[00300] Out(Literal(45))
+[00302] Out(Literal(116))
+[00304] Out(Literal(101))
+[00306] Out(Literal(115))
+[00308] Out(Literal(116))
+[00310] Out(Literal(46))
+[00312] Out(Literal(46))
+[00314] Out(Literal(46))
+[00316] Out(Literal(10))
+[00318] Out(Literal(10))
+[00320] Jump(Literal(347))
+[00322] Out(Literal(106))
+[00324] Out(Literal(109))
+[00326] Out(Literal(112))
+[00328] Out(Literal(32))
+[00330] Out(Literal(102))
+[00332] Out(Literal(97))
+[00334] Out(Literal(105))
+[00336] Out(Literal(108))
+[00338] Out(Literal(115))
+[00340] Out(Literal(10))
+[00342] Halt
+[00343] Noop
+[00344] Noop
+[00345] Noop
+[00346] Noop
+[00347] Noop
+[00348] Noop
+[00349] Noop
+[00350] Noop
+[00351] Noop
+[00352] Jump(Literal(358))
+[00354] Jump(Literal(368))
+[00356] Jump(Literal(397))
+[00358] Jump(Literal(484))
+[00360] Jump(Literal(424))
+[00362] Jump(Literal(453))
+[00364] Noop
+[00365] Noop
+[00366] Noop
+[00367] Noop
+[00368] Out(Literal(106))
+[00370] Out(Literal(109))
+[00372] Out(Literal(112))
+[00374] Out(Literal(32))
+[00376] Out(Literal(108))
+[00378] Out(Literal(97))
+[00380] Out(Literal(110))
+[00382] Out(Literal(100))
+[00384] Out(Literal(115))
+[00386] Out(Literal(32))
+[00388] Out(Literal(45))
+[00390] Out(Literal(50))
+[00392] Out(Literal(10))
+[00394] Halt
+[00395] Noop
+[00396] Noop
+[00397] Out(Literal(106))
+[00399] Out(Literal(109))
+[00401] Out(Literal(112))
+[00403] Out(Literal(32))
+[00405] Out(Literal(108))
+[00407] Out(Literal(97))
+[00409] Out(Literal(110))
+[00411] Out(Literal(100))
+[00413] Out(Literal(115))
+[00415] Out(Literal(32))
+[00417] Out(Literal(45))
+[00419] Out(Literal(49))
+[00421] Out(Literal(10))
+[00423] Halt
+[00424] Noop
+[00425] Noop
+[00426] Out(Literal(106))
+[00428] Out(Literal(109))
+[00430] Out(Literal(112))
+[00432] Out(Literal(32))
+[00434] Out(Literal(108))
+[00436] Out(Literal(97))
+[00438] Out(Literal(110))
+[00440] Out(Literal(100))
+[00442] Out(Literal(115))
+[00444] Out(Literal(32))
+[00446] Out(Literal(43))
+[00448] Out(Literal(49))
+[00450] Out(Literal(10))
+[00452] Halt
+[00453] Noop
+[00454] Noop
+[00455] Noop
+[00456] Noop
+[00457] Out(Literal(106))
+[00459] Out(Literal(109))
+[00461] Out(Literal(112))
+[00463] Out(Literal(32))
+[00465] Out(Literal(108))
+[00467] Out(Literal(97))
+[00469] Out(Literal(110))
+[00471] Out(Literal(100))
+[00473] Out(Literal(115))
+[00475] Out(Literal(32))
+[00477] Out(Literal(43))
+[00479] Out(Literal(50))
+[00481] Out(Literal(10))
+[00483] Halt
+[00484] JumpTrue(Literal(0), Literal(1074))
+[00487] JumpFalse(Literal(1), Literal(1074))
+[00490] JumpTrue(Literal(1), Literal(495))
+[00493] Jump(Literal(1074))
+[00495] JumpFalse(Literal(0), Literal(500))
+[00498] Jump(Literal(1074))
+[00500] JumpTrue(Register(Register(0)), Literal(1093))
+[00503] JumpTrue(Register(Register(1)), Literal(1093))
+[00506] JumpTrue(Register(Register(2)), Literal(1093))
+[00509] JumpTrue(Register(Register(3)), Literal(1093))
+[00512] JumpTrue(Register(Register(4)), Literal(1093))
+[00515] JumpTrue(Register(Register(5)), Literal(1093))
+[00518] JumpTrue(Register(Register(6)), Literal(1093))
+[00521] JumpTrue(Register(Register(7)), Literal(1093))
+[00524] Set(Register(0), Literal(1))
+[00527] JumpFalse(Register(Register(0)), Literal(1118))
+[00530] Set(Register(0), Literal(0))
+[00533] JumpTrue(Register(Register(0)), Literal(1118))
+[00536] Add(Register(0), Literal(1), Literal(1))
+[00540] JumpTrue(Register(Register(0)), Literal(564))
+[00543] Out(Literal(110))
+[00545] Out(Literal(111))
+[00547] Out(Literal(32))
+[00549] Out(Literal(97))
+[00551] Out(Literal(100))
+[00553] Out(Literal(100))
+[00555] Out(Literal(32))
+[00557] Out(Literal(111))
+[00559] Out(Literal(112))
+[00561] Out(Literal(10))
+[00563] Halt
+[00564] Equal(Register(1), Register(Register(0)), Literal(2))
+[00568] JumpTrue(Register(Register(1)), Literal(590))
+[00571] Out(Literal(110))
+[00573] Out(Literal(111))
+[00575] Out(Literal(32))
+[00577] Out(Literal(101))
+[00579] Out(Literal(113))
+[00581] Out(Literal(32))
+[00583] Out(Literal(111))
+[00585] Out(Literal(112))
+[00587] Out(Literal(10))
+[00589] Halt
+[00590] Push(Register(Register(0)))
+[00592] Push(Register(Register(1)))
+[00594] Pop(Register(0))
+[00596] Pop(Register(1))
+[00598] Equal(Register(2), Register(Register(1)), Literal(2))
+[00602] JumpFalse(Register(Register(2)), Literal(1158))
+[00605] Equal(Register(2), Register(Register(0)), Literal(1))
+[00609] JumpFalse(Register(Register(2)), Literal(1158))
+[00612] GreaterThan(Register(2), Register(Register(1)), Register(Register(0)))
+[00616] JumpFalse(Register(Register(2)), Literal(1139))
+[00619] GreaterThan(Register(2), Register(Register(0)), Register(Register(1)))
+[00623] JumpTrue(Register(Register(2)), Literal(1139))
+[00626] GreaterThan(Register(2), Literal(42), Literal(42))
+[00630] JumpTrue(Register(Register(2)), Literal(1139))
+[00633] And(Register(0), Literal(28912), Literal(19626))
+[00637] Equal(Register(1), Register(Register(0)), Literal(16544))
+[00641] JumpFalse(Register(Register(1)), Literal(1177))
+[00644] Or(Register(1), Literal(28912), Literal(19626))
+[00648] Equal(Register(0), Register(Register(1)), Literal(31994))
+[00652] JumpTrue(Register(Register(0)), Literal(684))
+[00655] Out(Literal(110))
+[00657] Out(Literal(111))
+[00659] Out(Literal(32))
+[00661] Out(Literal(98))
+[00663] Out(Literal(105))
+[00665] Out(Literal(116))
+[00667] Out(Literal(119))
+[00669] Out(Literal(105))
+[00671] Out(Literal(115))
+[00673] Out(Literal(101))
+[00675] Out(Literal(32))
+[00677] Out(Literal(111))
+[00679] Out(Literal(114))
+[00681] Out(Literal(10))
+[00683] Halt
+[00684] Not(Register(0), Literal(0))
+[00687] Equal(Register(1), Register(Register(0)), Literal(32767))
+[00691] JumpFalse(Register(Register(1)), Literal(1208))
+[00694] Not(Register(0), Literal(21845))
+[00697] Equal(Register(1), Register(Register(0)), Literal(10922))
+[00701] JumpFalse(Register(Register(1)), Literal(1208))
+[00704] Call(Literal(1285))
+[00706] Jump(Literal(1289))
+[00708] Pop(Register(0))
+[00710] Equal(Register(1), Register(Register(0)), Literal(708))
+[00714] JumpTrue(Register(Register(1)), Literal(1289))
+[00717] Equal(Register(1), Register(Register(0)), Literal(706))
+[00721] JumpFalse(Register(Register(1)), Literal(1289))
+[00724] Set(Register(0), Literal(1287))
+[00727] Call(Register(Register(0)))
+[00729] Jump(Literal(1289))
+[00731] Pop(Register(0))
+[00733] Equal(Register(1), Register(Register(0)), Literal(731))
+[00737] JumpTrue(Register(Register(1)), Literal(1289))
+[00740] Equal(Register(1), Register(Register(0)), Literal(729))
+[00744] JumpFalse(Register(Register(1)), Literal(1289))
+[00747] Add(Register(0), Literal(32767), Literal(32767))
+[00751] Equal(Register(1), Register(Register(0)), Literal(32766))
+[00755] JumpFalse(Register(Register(1)), Literal(1312))
+[00758] Equal(Register(1), Literal(32766), Register(Register(0)))
+[00762] JumpFalse(Register(Register(1)), Literal(1312))
+[00765] Add(Register(0), Literal(16384), Literal(16384))
+[00769] JumpTrue(Register(Register(0)), Literal(1312))
+[00772] Add(Register(0), Literal(16384), Literal(16384))
+[00776] JumpTrue(Register(Register(0)), Literal(1312))
+[00779] Multiply(Register(0), Literal(6), Literal(9))
+[00783] Equal(Register(1), Register(Register(0)), Literal(42))
+[00787] JumpTrue(Register(Register(1)), Literal(1381))
+[00790] Equal(Register(1), Register(Register(0)), Literal(54))
+[00794] JumpFalse(Register(Register(1)), Literal(1414))
+[00797] Multiply(Register(0), Literal(12345), Literal(32123))
+[00801] Equal(Register(1), Register(Register(0)), Literal(99))
+[00805] JumpFalse(Register(Register(1)), Literal(1312))
+[00808] Modulo(Register(0), Literal(6), Literal(3))
+[00812] Equal(Register(1), Register(Register(0)), Literal(0))
+[00816] JumpFalse(Register(Register(1)), Literal(1437))
+[00819] Modulo(Register(0), Literal(70), Literal(6))
+[00823] Equal(Register(1), Register(Register(0)), Literal(4))
+[00827] JumpFalse(Register(Register(1)), Literal(1437))
+[00830] Multiply(Register(0), Literal(32766), Literal(15))
+[00834] Equal(Register(1), Register(Register(0)), Literal(32738))
+[00838] JumpFalse(Register(Register(1)), Literal(1312))
+[00841] Jump(Literal(845))
+[00845] ReadMem(Register(0), Literal(843))
+[00848] Equal(Register(1), Register(Register(0)), Literal(20000))
+[00852] JumpFalse(Register(Register(1)), Literal(1239))
+[00855] Add(Register(2), Literal(843), Literal(1))
+[00859] ReadMem(Register(0), Register(Register(2)))
+[00862] Equal(Register(1), Register(Register(0)), Literal(10000))
+[00866] JumpFalse(Register(Register(1)), Literal(1239))
+[00869] Set(Register(0), Literal(843))
+[00872] WriteMem(Register(Register(0)), Literal(30000))
+[00875] ReadMem(Register(2), Register(Register(0)))
+[00878] Equal(Register(1), Register(Register(2)), Literal(30000))
+[00882] JumpFalse(Register(Register(1)), Literal(1262))
+[00885] Call(Literal(1723))
+[00887] ReadMem(Register(0), Literal(6068))
+[00890] Equal(Register(1), Register(Register(0)), Literal(11))
+[00894] JumpFalse(Register(Register(1)), Literal(1239))
+[00897] Add(Register(2), Literal(6068), Literal(1))
+[00901] ReadMem(Register(0), Register(Register(2)))
+[00904] Equal(Register(1), Register(Register(0)), Literal(116))
+[00908] JumpFalse(Register(Register(1)), Literal(1239))
+[00911] WriteMem(Register(Register(2)), Literal(84))
+[00914] ReadMem(Register(0), Register(Register(2)))
+[00917] Equal(Register(1), Register(Register(0)), Literal(116))
+[00921] JumpTrue(Register(Register(1)), Literal(1262))
+[00924] Equal(Register(1), Register(Register(0)), Literal(84))
+[00928] JumpFalse(Register(Register(1)), Literal(1262))
+[00931] WriteMem(Literal(937), Literal(21))
+[00934] WriteMem(Literal(938), Literal(7))
+[00937] Noop
+[00938] JumpTrue(Literal(19), Literal(978))
+[00941] Out(Literal(119))
+[00943] Out(Literal(109))
+[00945] Out(Literal(101))
+[00947] Out(Literal(109))
+[00949] Out(Literal(32))
+[00951] Out(Literal(111))
+[00953] Out(Literal(112))
+[00955] Out(Literal(119))
+[00957] Out(Literal(114))
+[00959] Out(Literal(105))
+[00961] Out(Literal(116))
+[00963] Out(Literal(101))
+[00965] Out(Literal(32))
+[00967] Out(Literal(102))
+[00969] Out(Literal(97))
+[00971] Out(Literal(105))
+[00973] Out(Literal(108))
+[00975] Out(Literal(10))
+[00977] Halt
+[00978] Add(Register(1), Literal(10), Literal(6080))
+[00982] Add(Register(1), Register(Register(1)), Literal(1))
+[00986] ReadMem(Register(2), Literal(6116))
+[00989] Add(Register(2), Register(Register(2)), Literal(6116))
+[00993] Set(Register(0), Literal(6116))
+[00996] Add(Register(0), Register(Register(0)), Literal(1))
+[01000] GreaterThan(Register(3), Register(Register(0)), Register(Register(2)))
+[01004] JumpTrue(Register(Register(3)), Literal(1023))
+[01007] ReadMem(Register(4), Register(Register(0)))
+[01010] WriteMem(Register(Register(1)), Register(Register(4)))
+[01013] Add(Register(0), Register(Register(0)), Literal(1))
+[01017] Add(Register(1), Register(Register(1)), Literal(1))
+[01021] Jump(Literal(1000))
+[01023] ReadMem(Register(0), Literal(6080))
+[01026] ReadMem(Register(1), Literal(6099))
+[01029] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[01033] Add(Register(0), Register(Register(0)), Literal(1))
+[01037] WriteMem(Literal(6080), Register(Register(0)))
+[01040] WriteMem(Literal(6099), Literal(44))
+[01043] Set(Register(0), Literal(6080))
+[01046] Call(Literal(1518))
+[01048] Push(Register(Register(0)))
+[01050] Push(Register(Register(1)))
+[01052] Push(Register(Register(2)))
+[01054] Set(Register(0), Literal(26851))
+[01057] Set(Register(1), Literal(1531))
+[01060] Add(Register(2), Literal(1653), Literal(24826))
+[01064] Call(Literal(1458))
+[01066] Pop(Register(2))
+[01068] Pop(Register(1))
+[01070] Pop(Register(0))
+[01072] Jump(Literal(2734))
+[01074] Out(Literal(110))
+[01076] Out(Literal(111))
+[01078] Out(Literal(32))
+[01080] Out(Literal(106))
+[01082] Out(Literal(116))
+[01084] Out(Literal(47))
+[01086] Out(Literal(106))
+[01088] Out(Literal(102))
+[01090] Out(Literal(10))
+[01092] Halt
+[01093] Out(Literal(110))
+[01095] Out(Literal(111))
+[01097] Out(Literal(110))
+[01099] Out(Literal(122))
+[01101] Out(Literal(101))
+[01103] Out(Literal(114))
+[01105] Out(Literal(111))
+[01107] Out(Literal(32))
+[01109] Out(Literal(114))
+[01111] Out(Literal(101))
+[01113] Out(Literal(103))
+[01115] Out(Literal(10))
+[01117] Halt
+[01118] Out(Literal(110))
+[01120] Out(Literal(111))
+[01122] Out(Literal(32))
+[01124] Out(Literal(115))
+[01126] Out(Literal(101))
+[01128] Out(Literal(116))
+[01130] Out(Literal(32))
+[01132] Out(Literal(111))
+[01134] Out(Literal(112))
+[01136] Out(Literal(10))
+[01138] Halt
+[01139] Out(Literal(110))
+[01141] Out(Literal(111))
+[01143] Out(Literal(32))
+[01145] Out(Literal(103))
+[01147] Out(Literal(116))
+[01149] Out(Literal(32))
+[01151] Out(Literal(111))
+[01153] Out(Literal(112))
+[01155] Out(Literal(10))
+[01157] Halt
+[01158] Out(Literal(110))
+[01160] Out(Literal(111))
+[01162] Out(Literal(32))
+[01164] Out(Literal(115))
+[01166] Out(Literal(116))
+[01168] Out(Literal(97))
+[01170] Out(Literal(99))
+[01172] Out(Literal(107))
+[01174] Out(Literal(10))
+[01176] Halt
+[01177] Out(Literal(110))
+[01179] Out(Literal(111))
+[01181] Out(Literal(32))
+[01183] Out(Literal(98))
+[01185] Out(Literal(105))
+[01187] Out(Literal(116))
+[01189] Out(Literal(119))
+[01191] Out(Literal(105))
+[01193] Out(Literal(115))
+[01195] Out(Literal(101))
+[01197] Out(Literal(32))
+[01199] Out(Literal(97))
+[01201] Out(Literal(110))
+[01203] Out(Literal(100))
+[01205] Out(Literal(10))
+[01207] Halt
+[01208] Out(Literal(110))
+[01210] Out(Literal(111))
+[01212] Out(Literal(32))
+[01214] Out(Literal(98))
+[01216] Out(Literal(105))
+[01218] Out(Literal(116))
+[01220] Out(Literal(119))
+[01222] Out(Literal(105))
+[01224] Out(Literal(115))
+[01226] Out(Literal(101))
+[01228] Out(Literal(32))
+[01230] Out(Literal(110))
+[01232] Out(Literal(111))
+[01234] Out(Literal(116))
+[01236] Out(Literal(10))
+[01238] Halt
+[01239] Out(Literal(110))
+[01241] Out(Literal(111))
+[01243] Out(Literal(32))
+[01245] Out(Literal(114))
+[01247] Out(Literal(109))
+[01249] Out(Literal(101))
+[01251] Out(Literal(109))
+[01253] Out(Literal(32))
+[01255] Out(Literal(111))
+[01257] Out(Literal(112))
+[01259] Out(Literal(10))
+[01261] Halt
+[01262] Out(Literal(110))
+[01264] Out(Literal(111))
+[01266] Out(Literal(32))
+[01268] Out(Literal(119))
+[01270] Out(Literal(109))
+[01272] Out(Literal(101))
+[01274] Out(Literal(109))
+[01276] Out(Literal(32))
+[01278] Out(Literal(111))
+[01280] Out(Literal(112))
+[01282] Out(Literal(10))
+[01284] Halt
+[01285] Jump(Literal(708))
+[01287] Jump(Literal(731))
+[01289] Out(Literal(110))
+[01291] Out(Literal(111))
+[01293] Out(Literal(32))
+[01295] Out(Literal(99))
+[01297] Out(Literal(97))
+[01299] Out(Literal(108))
+[01301] Out(Literal(108))
+[01303] Out(Literal(32))
+[01305] Out(Literal(111))
+[01307] Out(Literal(112))
+[01309] Out(Literal(10))
+[01311] Halt
+[01312] Out(Literal(110))
+[01314] Out(Literal(111))
+[01316] Out(Literal(32))
+[01318] Out(Literal(109))
+[01320] Out(Literal(111))
+[01322] Out(Literal(100))
+[01324] Out(Literal(117))
+[01326] Out(Literal(108))
+[01328] Out(Literal(111))
+[01330] Out(Literal(32))
+[01332] Out(Literal(109))
+[01334] Out(Literal(97))
+[01336] Out(Literal(116))
+[01338] Out(Literal(104))
+[01340] Out(Literal(32))
+[01342] Out(Literal(100))
+[01344] Out(Literal(117))
+[01346] Out(Literal(114))
+[01348] Out(Literal(105))
+[01350] Out(Literal(110))
+[01352] Out(Literal(103))
+[01354] Out(Literal(32))
+[01356] Out(Literal(97))
+[01358] Out(Literal(100))
+[01360] Out(Literal(100))
+[01362] Out(Literal(32))
+[01364] Out(Literal(111))
+[01366] Out(Literal(114))
+[01368] Out(Literal(32))
+[01370] Out(Literal(109))
+[01372] Out(Literal(117))
+[01374] Out(Literal(108))
+[01376] Out(Literal(116))
+[01378] Out(Literal(10))
+[01380] Halt
+[01381] Out(Literal(110))
+[01383] Out(Literal(111))
+[01385] Out(Literal(116))
+[01387] Out(Literal(32))
+[01389] Out(Literal(104))
+[01391] Out(Literal(105))
+[01393] Out(Literal(116))
+[01395] Out(Literal(99))
+[01397] Out(Literal(104))
+[01399] Out(Literal(104))
+[01401] Out(Literal(105))
+[01403] Out(Literal(107))
+[01405] Out(Literal(105))
+[01407] Out(Literal(110))
+[01409] Out(Literal(103))
+[01411] Out(Literal(10))
+[01413] Halt
+[01414] Out(Literal(110))
+[01416] Out(Literal(111))
+[01418] Out(Literal(32))
+[01420] Out(Literal(109))
+[01422] Out(Literal(117))
+[01424] Out(Literal(108))
+[01426] Out(Literal(116))
+[01428] Out(Literal(32))
+[01430] Out(Literal(111))
+[01432] Out(Literal(112))
+[01434] Out(Literal(10))
+[01436] Halt
+[01437] Out(Literal(110))
+[01439] Out(Literal(111))
+[01441] Out(Literal(32))
+[01443] Out(Literal(109))
+[01445] Out(Literal(111))
+[01447] Out(Literal(100))
+[01449] Out(Literal(32))
+[01451] Out(Literal(111))
+[01453] Out(Literal(112))
+[01455] Out(Literal(10))
+[01457] Halt
+[01458] Push(Register(Register(0)))
+[01460] Push(Register(Register(3)))
+[01462] Push(Register(Register(4)))
+[01464] Push(Register(Register(5)))
+[01466] Push(Register(Register(6)))
+[01468] Set(Register(6), Register(Register(0)))
+[01471] Set(Register(5), Register(Register(1)))
+[01474] ReadMem(Register(4), Register(Register(0)))
+[01477] Set(Register(1), Literal(0))
+[01480] Add(Register(3), Literal(1), Register(Register(1)))
+[01484] GreaterThan(Register(0), Register(Register(3)), Register(Register(4)))
+[01488] JumpTrue(Register(Register(0)), Literal(1507))
+[01491] Add(Register(3), Register(Register(3)), Register(Register(6)))
+[01495] ReadMem(Register(0), Register(Register(3)))
+[01498] Call(Register(Register(5)))
+[01500] Add(Register(1), Register(Register(1)), Literal(1))
+[01504] JumpTrue(Register(Register(1)), Literal(1480))
+[01507] Pop(Register(6))
+[01509] Pop(Register(5))
+[01511] Pop(Register(4))
+[01513] Pop(Register(3))
+[01515] Pop(Register(0))
+[01517] Return
+[01518] Push(Register(Register(1)))
+[01520] Set(Register(1), Literal(1528))
+[01523] Call(Literal(1458))
+[01525] Pop(Register(1))
+[01527] Return
+[01528] Out(Register(Register(0)))
+[01530] Return
+[01531] Push(Register(Register(1)))
+[01533] Set(Register(1), Register(Register(2)))
+[01536] Call(Literal(2125))
+[01538] Out(Register(Register(0)))
+[01540] Pop(Register(1))
+[01542] Return
+[01543] Push(Register(Register(1)))
+[01545] Push(Register(Register(3)))
+[01547] ReadMem(Register(3), Register(Register(0)))
+[01550] JumpFalse(Register(Register(3)), Literal(1563))
+[01553] Call(Literal(1458))
+[01555] JumpTrue(Register(Register(1)), Literal(1563))
+[01558] Set(Register(0), Register(Register(2)))
+[01561] Jump(Literal(1566))
+[01563] Set(Register(0), Literal(32767))
+[01566] Pop(Register(3))
+[01568] Pop(Register(1))
+[01570] Return
+[01571] Push(Register(Register(1)))
+[01573] Push(Register(Register(2)))
+[01575] Set(Register(2), Register(Register(1)))
+[01578] Set(Register(1), Literal(1605))
+[01581] Call(Literal(1543))
+[01583] Pop(Register(2))
+[01585] Pop(Register(1))
+[01587] Return
+[01588] Push(Register(Register(1)))
+[01590] Push(Register(Register(2)))
+[01592] Set(Register(2), Register(Register(1)))
+[01595] Set(Register(1), Literal(1648))
+[01598] Call(Literal(1543))
+[01600] Pop(Register(2))
+[01602] Pop(Register(1))
+[01604] Return
+[01605] Equal(Register(0), Register(Register(0)), Register(Register(2)))
+[01609] JumpFalse(Register(Register(0)), Literal(1618))
+[01612] Set(Register(2), Register(Register(1)))
+[01615] Set(Register(1), Literal(32767))
+[01618] Return
+[01619] Push(Register(Register(3)))
+[01621] Add(Register(3), Register(Register(2)), Literal(1))
+[01625] Add(Register(3), Register(Register(3)), Register(Register(1)))
+[01629] ReadMem(Register(3), Register(Register(3)))
+[01632] Equal(Register(3), Register(Register(0)), Register(Register(3)))
+[01636] JumpTrue(Register(Register(3)), Literal(1645))
+[01639] Set(Register(2), Register(Register(1)))
+[01642] Set(Register(1), Literal(32767))
+[01645] Pop(Register(3))
+[01647] Return
+[01648] Push(Register(Register(1)))
+[01650] Set(Register(1), Register(Register(2)))
+[01653] Call(Literal(1667))
+[01655] Pop(Register(1))
+[01657] JumpFalse(Register(Register(0)), Literal(1666))
+[01660] Set(Register(2), Register(Register(1)))
+[01663] Set(Register(1), Literal(32767))
+[01666] Return
+[01667] Push(Register(Register(1)))
+[01669] Push(Register(Register(2)))
+[01671] Push(Register(Register(3)))
+[01673] Push(Register(Register(4)))
+[01675] ReadMem(Register(3), Register(Register(0)))
+[01678] ReadMem(Register(4), Register(Register(1)))
+[01681] Equal(Register(2), Register(Register(3)), Register(Register(4)))
+[01685] JumpFalse(Register(Register(2)), Literal(1711))
+[01688] Or(Register(2), Register(Register(3)), Register(Register(4)))
+[01692] JumpFalse(Register(Register(2)), Literal(1706))
+[01695] Set(Register(2), Register(Register(1)))
+[01698] Set(Register(1), Literal(1619))
+[01701] Call(Literal(1458))
+[01703] JumpFalse(Register(Register(1)), Literal(1711))
+[01706] Set(Register(0), Literal(1))
+[01709] Jump(Literal(1714))
+[01711] Set(Register(0), Literal(0))
+[01714] Pop(Register(4))
+[01716] Pop(Register(3))
+[01718] Pop(Register(2))
+[01720] Pop(Register(1))
+[01722] Return
+[01723] Push(Register(Register(0)))
+[01725] Push(Register(Register(1)))
+[01727] Set(Register(1), Literal(6068))
+[01730] ReadMem(Register(0), Register(Register(1)))
+[01733] Push(Register(Register(1)))
+[01735] Multiply(Register(1), Register(Register(1)), Register(Register(1)))
+[01739] Call(Literal(2125))
+[01741] Set(Register(1), Literal(16724))
+[01744] Call(Literal(2125))
+[01746] Pop(Register(1))
+[01748] WriteMem(Register(Register(1)), Register(Register(0)))
+[01751] Add(Register(1), Register(Register(1)), Literal(1))
+[01755] Equal(Register(0), Literal(30050), Register(Register(1)))
+[01759] JumpFalse(Register(Register(0)), Literal(1730))
+[01762] Pop(Register(1))
+[01764] Pop(Register(0))
+[01766] Return
+[01767] Push(Register(Register(0)))
+[01769] Push(Register(Register(2)))
+[01771] Push(Register(Register(3)))
+[01773] Push(Register(Register(4)))
+[01775] Push(Register(Register(5)))
+[01777] Add(Register(2), Register(Register(1)), Register(Register(0)))
+[01781] Set(Register(0), Register(Register(1)))
+[01784] Set(Register(5), Literal(0))
+[01787] Add(Register(0), Register(Register(0)), Literal(1))
+[01791] GreaterThan(Register(3), Register(Register(0)), Register(Register(2)))
+[01795] JumpTrue(Register(Register(3)), Literal(1816))
+[01798] Input(Register(4))
+[01800] Equal(Register(3), Register(Register(4)), Literal(10))
+[01804] JumpTrue(Register(Register(3)), Literal(1816))
+[01807] WriteMem(Register(Register(0)), Register(Register(4)))
+[01810] Add(Register(5), Register(Register(5)), Literal(1))
+[01814] Jump(Literal(1787))
+[01816] WriteMem(Register(Register(1)), Register(Register(5)))
+[01819] Equal(Register(3), Register(Register(4)), Literal(10))
+[01823] JumpTrue(Register(Register(3)), Literal(1830))
+[01826] Input(Register(4))
+[01828] Jump(Literal(1819))
+[01830] Pop(Register(5))
+[01832] Pop(Register(4))
+[01834] Pop(Register(3))
+[01836] Pop(Register(2))
+[01838] Pop(Register(0))
+[01840] Return
+[01841] Push(Register(Register(3)))
+[01843] Push(Register(Register(4)))
+[01845] Push(Register(Register(5)))
+[01847] Push(Register(Register(6)))
+[01849] Set(Register(6), Literal(1))
+[01852] Add(Register(4), Register(Register(3)), Register(Register(6)))
+[01856] ReadMem(Register(4), Register(Register(4)))
+[01859] Add(Register(5), Literal(6125), Register(Register(6)))
+[01863] WriteMem(Register(Register(5)), Register(Register(4)))
+[01866] Add(Register(6), Register(Register(6)), Literal(1))
+[01870] ReadMem(Register(5), Literal(6125))
+[01873] GreaterThan(Register(4), Register(Register(6)), Register(Register(5)))
+[01877] JumpFalse(Register(Register(4)), Literal(1852))
+[01880] Set(Register(3), Literal(0))
+[01883] Set(Register(4), Literal(0))
+[01886] ReadMem(Register(5), Literal(6125))
+[01889] Modulo(Register(5), Register(Register(4)), Register(Register(5)))
+[01893] Add(Register(5), Register(Register(5)), Literal(6125))
+[01897] Add(Register(5), Register(Register(5)), Literal(1))
+[01901] ReadMem(Register(6), Register(Register(5)))
+[01904] Multiply(Register(6), Register(Register(6)), Literal(5249))
+[01908] Add(Register(6), Register(Register(6)), Literal(12345))
+[01912] WriteMem(Register(Register(5)), Register(Register(6)))
+[01915] Push(Register(Register(0)))
+[01917] Push(Register(Register(1)))
+[01919] Set(Register(1), Register(Register(6)))
+[01922] Call(Literal(2125))
+[01924] Set(Register(6), Register(Register(0)))
+[01927] Pop(Register(1))
+[01929] Pop(Register(0))
+[01931] ReadMem(Register(5), Register(Register(1)))
+[01934] Modulo(Register(6), Register(Register(6)), Register(Register(5)))
+[01938] Add(Register(6), Register(Register(6)), Literal(1))
+[01942] GreaterThan(Register(5), Register(Register(6)), Register(Register(2)))
+[01946] JumpTrue(Register(Register(5)), Literal(1952))
+[01949] Set(Register(3), Literal(1))
+[01952] Add(Register(6), Register(Register(6)), Register(Register(1)))
+[01956] ReadMem(Register(6), Register(Register(6)))
+[01959] Add(Register(4), Register(Register(4)), Literal(1))
+[01963] Add(Register(5), Register(Register(4)), Literal(6129))
+[01967] WriteMem(Register(Register(5)), Register(Register(6)))
+[01970] ReadMem(Register(5), Literal(6129))
+[01973] Equal(Register(5), Register(Register(4)), Register(Register(5)))
+[01977] JumpFalse(Register(Register(5)), Literal(1886))
+[01980] JumpFalse(Register(Register(3)), Literal(1880))
+[01983] Push(Register(Register(0)))
+[01985] Set(Register(0), Literal(6129))
+[01988] Call(Literal(1518))
+[01990] Pop(Register(0))
+[01992] Pop(Register(6))
+[01994] Pop(Register(5))
+[01996] Pop(Register(4))
+[01998] Pop(Register(3))
+[02000] Return
+[02001] Push(Register(Register(0)))
+[02003] Push(Register(Register(1)))
+[02005] Push(Register(Register(2)))
+[02007] Push(Register(Register(3)))
+[02009] Push(Register(Register(4)))
+[02011] Push(Register(Register(5)))
+[02013] Set(Register(2), Literal(1))
+[02016] Set(Register(5), Literal(0))
+[02019] JumpFalse(Register(Register(0)), Literal(2092))
+[02022] Equal(Register(4), Register(Register(2)), Literal(10000))
+[02026] Set(Register(3), Register(Register(0)))
+[02029] JumpTrue(Register(Register(4)), Literal(2040))
+[02032] Multiply(Register(1), Register(Register(2)), Literal(10))
+[02036] Modulo(Register(3), Register(Register(0)), Register(Register(1)))
+[02040] Set(Register(4), Literal(0))
+[02043] Multiply(Register(2), Register(Register(2)), Literal(32767))
+[02047] JumpFalse(Register(Register(3)), Literal(2060))
+[02050] Add(Register(4), Register(Register(4)), Literal(1))
+[02054] Add(Register(3), Register(Register(3)), Register(Register(2)))
+[02058] Jump(Literal(2047))
+[02060] Multiply(Register(2), Register(Register(2)), Literal(32767))
+[02064] Multiply(Register(3), Register(Register(4)), Register(Register(2)))
+[02068] Multiply(Register(3), Register(Register(3)), Literal(32767))
+[02072] Add(Register(0), Register(Register(0)), Register(Register(3)))
+[02076] Add(Register(4), Register(Register(4)), Literal(48))
+[02080] Multiply(Register(2), Register(Register(2)), Literal(10))
+[02084] Add(Register(5), Register(Register(5)), Literal(1))
+[02088] Push(Register(Register(4)))
+[02090] Jump(Literal(2019))
+[02092] JumpTrue(Register(Register(5)), Literal(2099))
+[02095] Out(Literal(48))
+[02097] Jump(Literal(2112))
+[02099] JumpFalse(Register(Register(5)), Literal(2112))
+[02102] Pop(Register(0))
+[02104] Out(Register(Register(0)))
+[02106] Add(Register(5), Register(Register(5)), Literal(32767))
+[02110] Jump(Literal(2099))
+[02112] Pop(Register(5))
+[02114] Pop(Register(4))
+[02116] Pop(Register(3))
+[02118] Pop(Register(2))
+[02120] Pop(Register(1))
+[02122] Pop(Register(0))
+[02124] Return
+[02125] Push(Register(Register(1)))
+[02127] Push(Register(Register(2)))
+[02129] And(Register(2), Register(Register(0)), Register(Register(1)))
+[02133] Not(Register(2), Register(Register(2)))
+[02136] Or(Register(0), Register(Register(0)), Register(Register(1)))
+[02140] And(Register(0), Register(Register(0)), Register(Register(2)))
+[02144] Pop(Register(2))
+[02146] Pop(Register(1))
+[02148] Return
+[02149] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[02153] GreaterThan(Register(1), Register(Register(1)), Register(Register(0)))
+[02157] Return
+[02158] Push(Register(Register(2)))
+[02160] GreaterThan(Register(2), Register(Register(1)), Register(Register(0)))
+[02164] Multiply(Register(1), Register(Register(1)), Literal(32767))
+[02168] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[02172] Set(Register(1), Register(Register(2)))
+[02175] Pop(Register(2))
+[02177] Return
+[02178] JumpFalse(Register(Register(0)), Literal(2241))
+[02181] JumpFalse(Register(Register(1)), Literal(2241))
+[02184] Push(Register(Register(2)))
+[02186] Push(Register(Register(3)))
+[02188] GreaterThan(Register(2), Register(Register(1)), Register(Register(0)))
+[02192] JumpTrue(Register(Register(2)), Literal(2204))
+[02195] Set(Register(2), Register(Register(0)))
+[02198] Set(Register(0), Register(Register(1)))
+[02201] Set(Register(1), Register(Register(2)))
+[02204] Set(Register(2), Register(Register(0)))
+[02207] Set(Register(0), Literal(0))
+[02210] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[02214] GreaterThan(Register(3), Register(Register(1)), Register(Register(0)))
+[02218] JumpTrue(Register(Register(3)), Literal(2233))
+[02221] Add(Register(2), Register(Register(2)), Literal(32767))
+[02225] JumpTrue(Register(Register(2)), Literal(2210))
+[02228] Set(Register(1), Literal(0))
+[02231] Jump(Literal(2236))
+[02233] Set(Register(1), Literal(1))
+[02236] Pop(Register(3))
+[02238] Pop(Register(2))
+[02240] Return
+[02241] Set(Register(0), Literal(0))
+[02244] Set(Register(1), Literal(0))
+[02247] Return
+[02248] Push(Register(Register(1)))
+[02250] Push(Register(Register(2)))
+[02252] JumpFalse(Register(Register(1)), Literal(2276))
+[02255] Add(Register(1), Register(Register(1)), Literal(32767))
+[02259] And(Register(2), Register(Register(0)), Literal(16384))
+[02263] Multiply(Register(0), Register(Register(0)), Literal(2))
+[02267] JumpFalse(Register(Register(2)), Literal(2252))
+[02270] Or(Register(0), Register(Register(0)), Literal(1))
+[02274] Jump(Literal(2252))
+[02276] Pop(Register(2))
+[02278] Pop(Register(1))
+[02280] Return
+[02281] Push(Register(Register(1)))
+[02283] GreaterThan(Register(1), Register(Register(0)), Literal(14))
+[02287] JumpTrue(Register(Register(1)), Literal(2309))
+[02290] Set(Register(1), Register(Register(0)))
+[02293] Set(Register(0), Literal(1))
+[02296] JumpFalse(Register(Register(1)), Literal(2312))
+[02299] Add(Register(1), Register(Register(1)), Literal(32767))
+[02303] Multiply(Register(0), Register(Register(0)), Literal(2))
+[02307] Jump(Literal(2296))
+[02309] Set(Register(0), Literal(32767))
+[02312] Pop(Register(1))
+[02314] Return
+[02315] Jump(Literal(2734))
+[02321] Halt
+[02326] Halt
+[02331] Halt
+[02336] Halt
+[02341] Halt
+[02346] Halt
+[02351] Halt
+[02356] Halt
+[02361] Halt
+[02366] Halt
+[02371] Halt
+[02376] Halt
+[02421] Halt
+[02451] Halt
+[02456] Halt
+[02461] Halt
+[02472] Halt
+[02477] Halt
+[02482] Halt
+[02487] Halt
+[02492] Halt
+[02497] Halt
+[02502] Halt
+[02507] Halt
+[02512] Halt
+[02517] Halt
+[02522] Halt
+[02527] Halt
+[02532] Halt
+[02537] Halt
+[02542] Halt
+[02547] Halt
+[02552] Halt
+[02557] Halt
+[02652] Halt
+[02657] Halt
+[02662] Halt
+[02670] Halt
+[02675] Halt
+[02682] Halt
+[02710] Halt
+[02715] Halt
+[02719] Halt
+[02727] Halt
+[02731] Halt
+[02734] Push(Register(Register(0)))
+[02736] Push(Register(Register(1)))
+[02738] Push(Register(Register(2)))
+[02740] Push(Register(Register(3)))
+[02742] ReadMem(Register(1), Literal(2732))
+[02745] ReadMem(Register(0), Literal(2733))
+[02748] Equal(Register(0), Register(Register(0)), Register(Register(1)))
+[02752] JumpTrue(Register(Register(0)), Literal(2770))
+[02755] ReadMem(Register(0), Literal(2732))
+[02758] Add(Register(0), Register(Register(0)), Literal(4))
+[02762] ReadMem(Register(0), Register(Register(0)))
+[02765] JumpFalse(Register(Register(0)), Literal(2770))
+[02768] Call(Register(Register(0)))
+[02770] ReadMem(Register(1), Literal(2732))
+[02773] ReadMem(Register(0), Literal(2733))
+[02776] Equal(Register(0), Register(Register(0)), Register(Register(1)))
+[02780] JumpTrue(Register(Register(0)), Literal(2791))
+[02783] Set(Register(0), Literal(25974))
+[02786] WriteMem(Register(Register(0)), Literal(0))
+[02789] Call(Literal(2964))
+[02791] WriteMem(Literal(2733), Register(Register(1)))
+[02794] Push(Register(Register(0)))
+[02796] Push(Register(Register(1)))
+[02798] Push(Register(Register(2)))
+[02800] Set(Register(0), Literal(27414))
+[02803] Set(Register(1), Literal(1531))
+[02806] Add(Register(2), Literal(6865), Literal(12842))
+[02810] Call(Literal(1458))
+[02812] Pop(Register(2))
+[02814] Pop(Register(1))
+[02816] Pop(Register(0))
+[02818] Set(Register(0), Literal(32))
+[02821] Set(Register(1), Literal(25974))
+[02824] Call(Literal(1767))
+[02826] Out(Literal(10))
+[02828] Out(Literal(10))
+[02830] Set(Register(0), Literal(25974))
+[02833] Set(Register(1), Literal(32))
+[02836] Call(Literal(1571))
+[02838] Equal(Register(1), Register(Register(0)), Literal(32767))
+[02842] JumpFalse(Register(Register(1)), Literal(2848))
+[02845] ReadMem(Register(0), Literal(25974))
+[02848] Set(Register(2), Register(Register(0)))
+[02851] ReadMem(Register(1), Literal(25974))
+[02854] Push(Register(Register(1)))
+[02856] WriteMem(Literal(25974), Register(Register(2)))
+[02859] Set(Register(0), Literal(27398))
+[02862] Set(Register(1), Literal(25974))
+[02865] Call(Literal(1588))
+[02867] Pop(Register(1))
+[02869] WriteMem(Literal(25974), Register(Register(1)))
+[02872] Equal(Register(1), Register(Register(0)), Literal(32767))
+[02876] JumpFalse(Register(Register(1)), Literal(2885))
+[02879] Set(Register(0), Literal(0))
+[02882] Set(Register(2), Literal(0))
+[02885] Add(Register(1), Literal(27406), Literal(1))
+[02889] Add(Register(1), Register(Register(1)), Register(Register(0)))
+[02893] ReadMem(Register(1), Register(Register(1)))
+[02896] ReadMem(Register(3), Literal(25974))
+[02899] Equal(Register(3), Register(Register(3)), Register(Register(2)))
+[02903] JumpTrue(Register(Register(3)), Literal(2944))
+[02906] Multiply(Register(0), Register(Register(2)), Literal(32767))
+[02910] ReadMem(Register(3), Literal(25974))
+[02913] Add(Register(3), Register(Register(0)), Register(Register(3)))
+[02917] JumpFalse(Register(Register(2)), Literal(2924))
+[02920] Add(Register(3), Register(Register(3)), Literal(32767))
+[02924] Modulo(Register(3), Register(Register(3)), Literal(32))
+[02928] Add(Register(0), Literal(25974), Register(Register(2)))
+[02932] JumpFalse(Register(Register(2)), Literal(2939))
+[02935] Add(Register(0), Register(Register(0)), Literal(1))
+[02939] WriteMem(Register(Register(0)), Register(Register(3)))
+[02942] Jump(Literal(2950))
+[02944] Set(Register(0), Literal(25974))
+[02947] WriteMem(Register(Register(0)), Literal(0))
+[02950] Call(Register(Register(1)))
+[02952] JumpTrue(Register(Register(1)), Literal(2742))
+[02955] Pop(Register(3))
+[02957] Pop(Register(2))
+[02959] Pop(Register(1))
+[02961] Pop(Register(0))
+[02963] Return
+[02964] Push(Register(Register(0)))
+[02966] Push(Register(Register(1)))
+[02968] Push(Register(Register(2)))
+[02970] ReadMem(Register(1), Register(Register(0)))
+[02973] JumpFalse(Register(Register(1)), Literal(3032))
+[02976] Call(Literal(5921))
+[02978] JumpFalse(Register(Register(0)), Literal(3006))
+[02981] Push(Register(Register(0)))
+[02983] Call(Literal(5990))
+[02985] Set(Register(1), Register(Register(0)))
+[02988] Pop(Register(0))
+[02990] JumpFalse(Register(Register(1)), Literal(3006))
+[02993] Add(Register(1), Register(Register(0)), Literal(1))
+[02997] ReadMem(Register(0), Register(Register(1)))
+[03000] Call(Literal(1518))
+[03002] Out(Literal(10))
+[03004] Jump(Literal(3238))
+[03006] Push(Register(Register(0)))
+[03008] Push(Register(Register(1)))
+[03010] Push(Register(Register(2)))
+[03012] Set(Register(0), Literal(27432))
+[03015] Set(Register(1), Literal(1531))
+[03018] Add(Register(2), Literal(8108), Literal(9671))
+[03022] Call(Literal(1458))
+[03024] Pop(Register(2))
+[03026] Pop(Register(1))
+[03028] Pop(Register(0))
+[03030] Jump(Literal(3238))
+[03032] ReadMem(Register(0), Literal(2732))
+[03035] Push(Register(Register(0)))
+[03037] Out(Literal(61))
+[03039] Out(Literal(61))
+[03041] Out(Literal(32))
+[03043] Add(Register(0), Register(Register(0)), Literal(0))
+[03047] ReadMem(Register(0), Register(Register(0)))
+[03050] Call(Literal(1518))
+[03052] Out(Literal(32))
+[03054] Out(Literal(61))
+[03056] Out(Literal(61))
+[03058] Out(Literal(10))
+[03060] Pop(Register(0))
+[03062] Push(Register(Register(0)))
+[03064] Add(Register(0), Register(Register(0)), Literal(1))
+[03068] ReadMem(Register(0), Register(Register(0)))
+[03071] ReadMem(Register(1), Register(Register(0)))
+[03074] Equal(Register(1), Register(Register(1)), Literal(2))
+[03078] JumpFalse(Register(Register(1)), Literal(3104))
+[03081] Push(Register(Register(0)))
+[03083] Set(Register(0), Literal(2680))
+[03086] Call(Literal(5990))
+[03088] Set(Register(1), Register(Register(0)))
+[03091] Pop(Register(0))
+[03093] Add(Register(0), Register(Register(0)), Literal(1))
+[03097] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[03101] ReadMem(Register(0), Register(Register(0)))
+[03104] Call(Literal(1518))
+[03106] Out(Literal(10))
+[03108] Pop(Register(0))
+[03110] Push(Register(Register(0)))
+[03112] Call(Literal(5823))
+[03114] JumpFalse(Register(Register(0)), Literal(3146))
+[03117] Push(Register(Register(0)))
+[03119] Push(Register(Register(1)))
+[03121] Push(Register(Register(2)))
+[03123] Set(Register(0), Literal(27455))
+[03126] Set(Register(1), Literal(1531))
+[03129] Add(Register(2), Literal(1053), Literal(20827))
+[03133] Call(Literal(1458))
+[03135] Pop(Register(2))
+[03137] Pop(Register(1))
+[03139] Pop(Register(0))
+[03141] ReadMem(Register(2), Literal(2732))
+[03144] Call(Literal(5876))
+[03146] Pop(Register(0))
+[03148] Push(Register(Register(0)))
+[03150] Add(Register(0), Register(Register(0)), Literal(2))
+[03154] ReadMem(Register(0), Register(Register(0)))
+[03157] ReadMem(Register(0), Register(Register(0)))
+[03160] Equal(Register(2), Register(Register(0)), Literal(1))
+[03164] Out(Literal(10))
+[03166] Out(Literal(84))
+[03168] Out(Literal(104))
+[03170] Out(Literal(101))
+[03172] Out(Literal(114))
+[03174] Out(Literal(101))
+[03176] Out(Literal(32))
+[03178] JumpTrue(Register(Register(2)), Literal(3189))
+[03181] Out(Literal(97))
+[03183] Out(Literal(114))
+[03185] Out(Literal(101))
+[03187] Jump(Literal(3193))
+[03189] Out(Literal(105))
+[03191] Out(Literal(115))
+[03193] Out(Literal(32))
+[03195] Call(Literal(2001))
+[03197] Out(Literal(32))
+[03199] Out(Literal(101))
+[03201] Out(Literal(120))
+[03203] Out(Literal(105))
+[03205] Out(Literal(116))
+[03207] Equal(Register(2), Register(Register(0)), Literal(1))
+[03211] JumpTrue(Register(Register(2)), Literal(3216))
+[03214] Out(Literal(115))
+[03216] Out(Literal(58))
+[03218] Out(Literal(10))
+[03220] Pop(Register(0))
+[03222] Push(Register(Register(0)))
+[03224] Add(Register(0), Register(Register(0)), Literal(2))
+[03228] ReadMem(Register(0), Register(Register(0)))
+[03231] Set(Register(1), Literal(5814))
+[03234] Call(Literal(1458))
+[03236] Pop(Register(0))
+[03238] Pop(Register(2))
+[03240] Pop(Register(1))
+[03242] Pop(Register(0))
+[03244] Return
+[03245] Push(Register(Register(0)))
+[03247] Push(Register(Register(1)))
+[03249] Push(Register(Register(2)))
+[03251] Set(Register(1), Register(Register(0)))
+[03254] ReadMem(Register(0), Literal(2732))
+[03257] Add(Register(0), Register(Register(0)), Literal(2))
+[03261] ReadMem(Register(0), Register(Register(0)))
+[03264] Call(Literal(1588))
+[03266] Equal(Register(2), Register(Register(0)), Literal(32767))
+[03270] JumpTrue(Register(Register(2)), Literal(3302))
+[03273] ReadMem(Register(2), Literal(2732))
+[03276] Add(Register(2), Register(Register(2)), Literal(3))
+[03280] ReadMem(Register(2), Register(Register(2)))
+[03283] Add(Register(2), Register(Register(2)), Literal(1))
+[03287] Add(Register(2), Register(Register(2)), Register(Register(0)))
+[03291] ReadMem(Register(2), Register(Register(2)))
+[03294] WriteMem(Literal(2732), Register(Register(2)))
+[03297] WriteMem(Literal(2733), Literal(0))
+[03300] Jump(Literal(3326))
+[03302] Push(Register(Register(0)))
+[03304] Push(Register(Register(1)))
+[03306] Push(Register(Register(2)))
+[03308] Set(Register(0), Literal(27482))
+[03311] Set(Register(1), Literal(1531))
+[03314] Add(Register(2), Literal(5608), Literal(2304))
+[03318] Call(Literal(1458))
+[03320] Pop(Register(2))
+[03322] Pop(Register(1))
+[03324] Pop(Register(0))
+[03326] Pop(Register(2))
+[03328] Pop(Register(1))
+[03330] Pop(Register(0))
+[03332] Return
+[03333] Push(Register(Register(0)))
+[03335] Push(Register(Register(0)))
+[03337] Push(Register(Register(1)))
+[03339] Push(Register(Register(2)))
+[03341] Set(Register(0), Literal(27532))
+[03344] Set(Register(1), Literal(1531))
+[03347] Add(Register(2), Literal(2023), Literal(2305))
+[03351] Call(Literal(1458))
+[03353] Pop(Register(2))
+[03355] Pop(Register(1))
+[03357] Pop(Register(0))
+[03359] Pop(Register(0))
+[03361] Return
+[03362] Push(Register(Register(0)))
+[03364] Push(Register(Register(2)))
+[03366] Push(Register(Register(0)))
+[03368] Push(Register(Register(1)))
+[03370] Push(Register(Register(2)))
+[03372] Set(Register(0), Literal(28037))
+[03375] Set(Register(1), Literal(1531))
+[03378] Add(Register(2), Literal(4406), Literal(10057))
+[03382] Call(Literal(1458))
+[03384] Pop(Register(2))
+[03386] Pop(Register(1))
+[03388] Pop(Register(0))
+[03390] Set(Register(2), Literal(0))
+[03393] Call(Literal(5876))
+[03395] Pop(Register(2))
+[03397] Pop(Register(0))
+[03399] Return
+[03400] Push(Register(Register(0)))
+[03402] Push(Register(Register(1)))
+[03404] Push(Register(Register(2)))
+[03406] Call(Literal(5921))
+[03408] JumpFalse(Register(Register(0)), Literal(3457))
+[03411] Add(Register(1), Register(Register(0)), Literal(2))
+[03415] ReadMem(Register(0), Register(Register(1)))
+[03418] ReadMem(Register(2), Literal(2732))
+[03421] Equal(Register(2), Register(Register(0)), Register(Register(2)))
+[03425] JumpFalse(Register(Register(2)), Literal(3457))
+[03428] WriteMem(Register(Register(1)), Literal(0))
+[03431] Push(Register(Register(0)))
+[03433] Push(Register(Register(1)))
+[03435] Push(Register(Register(2)))
+[03437] Set(Register(0), Literal(28054))
+[03440] Set(Register(1), Literal(1531))
+[03443] Add(Register(2), Literal(13073), Literal(11743))
+[03447] Call(Literal(1458))
+[03449] Pop(Register(2))
+[03451] Pop(Register(1))
+[03453] Pop(Register(0))
+[03455] Jump(Literal(3481))
+[03457] Push(Register(Register(0)))
+[03459] Push(Register(Register(1)))
+[03461] Push(Register(Register(2)))
+[03463] Set(Register(0), Literal(28062))
+[03466] Set(Register(1), Literal(1531))
+[03469] Add(Register(2), Literal(4081), Literal(2169))
+[03473] Call(Literal(1458))
+[03475] Pop(Register(2))
+[03477] Pop(Register(1))
+[03479] Pop(Register(0))
+[03481] Pop(Register(2))
+[03483] Pop(Register(1))
+[03485] Pop(Register(0))
+[03487] Return
+[03488] Push(Register(Register(0)))
+[03490] Push(Register(Register(1)))
+[03492] Call(Literal(5921))
+[03494] JumpFalse(Register(Register(0)), Literal(3539))
+[03497] Add(Register(1), Register(Register(0)), Literal(2))
+[03501] ReadMem(Register(0), Register(Register(1)))
+[03504] JumpTrue(Register(Register(0)), Literal(3539))
+[03507] ReadMem(Register(0), Literal(2732))
+[03510] WriteMem(Register(Register(1)), Register(Register(0)))
+[03513] Push(Register(Register(0)))
+[03515] Push(Register(Register(1)))
+[03517] Push(Register(Register(2)))
+[03519] Set(Register(0), Literal(28090))
+[03522] Set(Register(1), Literal(1531))
+[03525] Add(Register(2), Literal(37), Literal(344))
+[03529] Call(Literal(1458))
+[03531] Pop(Register(2))
+[03533] Pop(Register(1))
+[03535] Pop(Register(0))
+[03537] Jump(Literal(3563))
+[03539] Push(Register(Register(0)))
+[03541] Push(Register(Register(1)))
+[03543] Push(Register(Register(2)))
+[03545] Set(Register(0), Literal(28100))
+[03548] Set(Register(1), Literal(1531))
+[03551] Add(Register(2), Literal(15301), Literal(4136))
+[03555] Call(Literal(1458))
+[03557] Pop(Register(2))
+[03559] Pop(Register(1))
+[03561] Pop(Register(0))
+[03563] Pop(Register(1))
+[03565] Pop(Register(0))
+[03567] Return
+[03568] Push(Register(Register(0)))
+[03570] Push(Register(Register(1)))
+[03572] Call(Literal(5921))
+[03574] JumpFalse(Register(Register(0)), Literal(3601))
+[03577] Add(Register(1), Register(Register(0)), Literal(2))
+[03581] ReadMem(Register(1), Register(Register(1)))
+[03584] JumpTrue(Register(Register(1)), Literal(3601))
+[03587] Add(Register(1), Register(Register(0)), Literal(3))
+[03591] ReadMem(Register(1), Register(Register(1)))
+[03594] JumpFalse(Register(Register(1)), Literal(3627))
+[03597] Call(Register(Register(1)))
+[03599] Jump(Literal(3651))
+[03601] Push(Register(Register(0)))
+[03603] Push(Register(Register(1)))
+[03605] Push(Register(Register(2)))
+[03607] Set(Register(0), Literal(28135))
+[03610] Set(Register(1), Literal(1531))
+[03613] Add(Register(2), Literal(1207), Literal(5441))
+[03617] Call(Literal(1458))
+[03619] Pop(Register(2))
+[03621] Pop(Register(1))
+[03623] Pop(Register(0))
+[03625] Jump(Literal(3651))
+[03627] Push(Register(Register(0)))
+[03629] Push(Register(Register(1)))
+[03631] Push(Register(Register(2)))
+[03633] Set(Register(0), Literal(28170))
+[03636] Set(Register(1), Literal(1531))
+[03639] Add(Register(2), Literal(256), Literal(1632))
+[03643] Call(Literal(1458))
+[03645] Pop(Register(2))
+[03647] Pop(Register(1))
+[03649] Pop(Register(0))
+[03651] Pop(Register(1))
+[03653] Pop(Register(0))
+[03655] Return
+[03656] Push(Register(Register(0)))
+[03658] Push(Register(Register(1)))
+[03660] Push(Register(Register(2)))
+[03662] Set(Register(0), Literal(2680))
+[03665] Call(Literal(5990))
+[03667] JumpTrue(Register(Register(0)), Literal(3694))
+[03670] Add(Register(0), Literal(2676), Literal(2))
+[03674] WriteMem(Register(Register(0)), Literal(32767))
+[03677] Add(Register(0), Literal(2680), Literal(2))
+[03681] WriteMem(Register(Register(0)), Literal(32767))
+[03684] Add(Register(0), Literal(2672), Literal(2))
+[03688] WriteMem(Register(Register(0)), Literal(32767))
+[03691] WriteMem(Literal(2732), Literal(2648))
+[03694] Pop(Register(2))
+[03696] Pop(Register(1))
+[03698] Pop(Register(0))
+[03700] Return
+[03701] Push(Register(Register(0)))
+[03703] Push(Register(Register(1)))
+[03705] Push(Register(Register(2)))
+[03707] Set(Register(0), Literal(28204))
+[03710] Set(Register(1), Literal(1531))
+[03713] Add(Register(2), Literal(3130), Literal(20028))
+[03717] Call(Literal(1458))
+[03719] Pop(Register(2))
+[03721] Pop(Register(1))
+[03723] Pop(Register(0))
+[03725] Halt
+[03726] Halt
+[03727] Push(Register(Register(1)))
+[03729] ReadMem(Register(1), Literal(3726))
+[03732] Or(Register(1), Register(Register(1)), Register(Register(0)))
+[03736] WriteMem(Literal(3726), Register(Register(1)))
+[03739] Pop(Register(1))
+[03741] Return
+[03742] WriteMem(Literal(3726), Literal(0))
+[03745] Return
+[03746] Push(Register(Register(0)))
+[03748] Set(Register(0), Literal(1))
+[03751] Call(Literal(3727))
+[03753] Pop(Register(0))
+[03755] Return
+[03756] Push(Register(Register(0)))
+[03758] Set(Register(0), Literal(2))
+[03761] Call(Literal(3727))
+[03763] Pop(Register(0))
+[03765] Return
+[03766] Push(Register(Register(0)))
+[03768] Set(Register(0), Literal(4))
+[03771] Call(Literal(3727))
+[03773] Pop(Register(0))
+[03775] Return
+[03776] Push(Register(Register(0)))
+[03778] Set(Register(0), Literal(8))
+[03781] Call(Literal(3727))
+[03783] Pop(Register(0))
+[03785] Return
+[03786] Push(Register(Register(0)))
+[03788] Set(Register(0), Literal(16))
+[03791] Call(Literal(3727))
+[03793] Pop(Register(0))
+[03795] Return
+[03796] Push(Register(Register(0)))
+[03798] Set(Register(0), Literal(32))
+[03801] Call(Literal(3727))
+[03803] Pop(Register(0))
+[03805] Return
+[03806] Push(Register(Register(0)))
+[03808] Push(Register(Register(1)))
+[03810] Push(Register(Register(2)))
+[03812] Push(Register(Register(3)))
+[03814] Set(Register(0), Literal(64))
+[03817] Call(Literal(3727))
+[03819] Push(Register(Register(0)))
+[03821] Push(Register(Register(1)))
+[03823] Push(Register(Register(2)))
+[03825] Set(Register(0), Literal(28236))
+[03828] Set(Register(1), Literal(1531))
+[03831] Add(Register(2), Literal(172), Literal(334))
+[03835] Call(Literal(1458))
+[03837] Pop(Register(2))
+[03839] Pop(Register(1))
+[03841] Pop(Register(0))
+[03843] ReadMem(Register(0), Literal(3726))
+[03846] Set(Register(1), Literal(25866))
+[03849] Set(Register(2), Literal(32767))
+[03852] Set(Register(3), Literal(28299))
+[03855] Call(Literal(1841))
+[03857] Push(Register(Register(0)))
+[03859] Push(Register(Register(1)))
+[03861] Push(Register(Register(2)))
+[03863] Set(Register(0), Literal(28303))
+[03866] Set(Register(1), Literal(1531))
+[03869] Add(Register(2), Literal(10472), Literal(9490))
+[03873] Call(Literal(1458))
+[03875] Pop(Register(2))
+[03877] Pop(Register(1))
+[03879] Pop(Register(0))
+[03881] WriteMem(Literal(2732), Literal(2417))
+[03884] Pop(Register(3))
+[03886] Pop(Register(2))
+[03888] Pop(Register(1))
+[03890] Pop(Register(0))
+[03892] Return
+[03893] Push(Register(Register(0)))
+[03895] Push(Register(Register(1)))
+[03897] ReadMem(Register(0), Literal(2462))
+[03900] ReadMem(Register(1), Literal(27101))
+[03903] Equal(Register(0), Register(Register(0)), Register(Register(1)))
+[03907] JumpTrue(Register(Register(0)), Literal(3940))
+[03910] Push(Register(Register(0)))
+[03912] Push(Register(Register(1)))
+[03914] Push(Register(Register(2)))
+[03916] Set(Register(0), Literal(28347))
+[03919] Set(Register(1), Literal(1531))
+[03922] Add(Register(2), Literal(27810), Literal(2900))
+[03926] Call(Literal(1458))
+[03928] Pop(Register(2))
+[03930] Pop(Register(1))
+[03932] Pop(Register(0))
+[03934] WriteMem(Literal(2732), Literal(2457))
+[03937] WriteMem(Literal(2733), Literal(2457))
+[03940] Pop(Register(1))
+[03942] Pop(Register(0))
+[03944] Return
+[03951] Halt
+[03953] Halt
+[03954] Halt
+[03955] Halt
+[03956] Halt
+[03957] Halt
+[03958] Push(Register(Register(0)))
+[03960] Push(Register(Register(1)))
+[03962] Set(Register(0), Literal(2))
+[03965] Set(Register(1), Literal(0))
+[03968] Call(Literal(4218))
+[03970] Pop(Register(1))
+[03972] Pop(Register(0))
+[03974] Return
+[03975] Push(Register(Register(0)))
+[03977] Push(Register(Register(1)))
+[03979] Set(Register(0), Literal(8))
+[03982] Set(Register(1), Literal(1))
+[03985] Call(Literal(4279))
+[03987] Pop(Register(1))
+[03989] Pop(Register(0))
+[03991] Return
+[03992] Push(Register(Register(0)))
+[03994] Push(Register(Register(1)))
+[03996] Set(Register(0), Literal(1))
+[03999] Set(Register(1), Literal(2))
+[04002] Call(Literal(4218))
+[04004] Pop(Register(1))
+[04006] Pop(Register(0))
+[04008] Return
+[04009] Push(Register(Register(0)))
+[04011] Push(Register(Register(1)))
+[04013] Set(Register(0), Literal(1))
+[04016] Set(Register(1), Literal(3))
+[04019] Call(Literal(4279))
+[04021] Call(Literal(4533))
+[04023] Pop(Register(1))
+[04025] Pop(Register(0))
+[04027] Return
+[04028] Push(Register(Register(0)))
+[04030] Push(Register(Register(1)))
+[04032] Set(Register(0), Literal(4))
+[04035] Set(Register(1), Literal(4))
+[04038] Call(Literal(4279))
+[04040] Pop(Register(1))
+[04042] Pop(Register(0))
+[04044] Return
+[04045] Push(Register(Register(0)))
+[04047] Push(Register(Register(1)))
+[04049] Set(Register(0), Literal(2))
+[04052] Set(Register(1), Literal(5))
+[04055] Call(Literal(4218))
+[04057] Pop(Register(1))
+[04059] Pop(Register(0))
+[04061] Return
+[04062] Push(Register(Register(0)))
+[04064] Push(Register(Register(1)))
+[04066] Set(Register(0), Literal(11))
+[04069] Set(Register(1), Literal(6))
+[04072] Call(Literal(4279))
+[04074] Pop(Register(1))
+[04076] Pop(Register(0))
+[04078] Return
+[04079] Push(Register(Register(0)))
+[04081] Push(Register(Register(1)))
+[04083] Set(Register(0), Literal(2))
+[04086] Set(Register(1), Literal(7))
+[04089] Call(Literal(4218))
+[04091] Pop(Register(1))
+[04093] Pop(Register(0))
+[04095] Return
+[04096] Push(Register(Register(0)))
+[04098] Push(Register(Register(1)))
+[04100] Set(Register(0), Literal(0))
+[04103] Set(Register(1), Literal(8))
+[04106] Call(Literal(4218))
+[04108] Pop(Register(1))
+[04110] Pop(Register(0))
+[04112] Return
+[04113] Push(Register(Register(0)))
+[04115] Push(Register(Register(1)))
+[04117] Set(Register(0), Literal(4))
+[04120] Set(Register(1), Literal(9))
+[04123] Call(Literal(4279))
+[04125] Pop(Register(1))
+[04127] Pop(Register(0))
+[04129] Return
+[04130] Push(Register(Register(0)))
+[04132] Push(Register(Register(1)))
+[04134] Set(Register(0), Literal(1))
+[04137] Set(Register(1), Literal(10))
+[04140] Call(Literal(4218))
+[04142] Pop(Register(1))
+[04144] Pop(Register(0))
+[04146] Return
+[04147] Push(Register(Register(0)))
+[04149] Push(Register(Register(1)))
+[04151] Set(Register(0), Literal(18))
+[04154] Set(Register(1), Literal(11))
+[04157] Call(Literal(4279))
+[04159] Pop(Register(1))
+[04161] Pop(Register(0))
+[04163] Return
+[04164] Call(Literal(4611))
+[04166] Return
+[04167] Push(Register(Register(0)))
+[04169] Push(Register(Register(1)))
+[04171] Set(Register(0), Literal(1))
+[04174] Set(Register(1), Literal(12))
+[04177] Call(Literal(4218))
+[04179] Pop(Register(1))
+[04181] Pop(Register(0))
+[04183] Return
+[04184] Push(Register(Register(0)))
+[04186] Push(Register(Register(1)))
+[04188] Set(Register(0), Literal(9))
+[04191] Set(Register(1), Literal(13))
+[04194] Call(Literal(4279))
+[04196] Pop(Register(1))
+[04198] Pop(Register(0))
+[04200] Return
+[04201] Push(Register(Register(0)))
+[04203] Push(Register(Register(1)))
+[04205] Set(Register(0), Literal(2))
+[04208] Set(Register(1), Literal(14))
+[04211] Call(Literal(4218))
+[04213] Pop(Register(1))
+[04215] Pop(Register(0))
+[04217] Return
+[04218] Push(Register(Register(0)))
+[04220] Push(Register(Register(1)))
+[04222] Push(Register(Register(2)))
+[04224] Add(Register(2), Literal(2716), Literal(2))
+[04228] ReadMem(Register(2), Register(Register(2)))
+[04231] JumpTrue(Register(Register(2)), Literal(4272))
+[04234] Call(Literal(4405))
+[04236] WriteMem(Literal(3951), Register(Register(0)))
+[04239] Add(Register(1), Register(Register(0)), Literal(3945))
+[04243] ReadMem(Register(1), Register(Register(1)))
+[04246] Set(Register(0), Literal(26024))
+[04249] Call(Literal(1518))
+[04251] Set(Register(0), Register(Register(1)))
+[04254] Call(Literal(1518))
+[04256] Set(Register(0), Literal(26088))
+[04259] Call(Literal(1518))
+[04261] Set(Register(0), Register(Register(1)))
+[04264] Call(Literal(1518))
+[04266] Out(Literal(46))
+[04268] Out(Literal(10))
+[04270] Out(Literal(10))
+[04272] Pop(Register(2))
+[04274] Pop(Register(1))
+[04276] Pop(Register(0))
+[04278] Return
+[04279] Push(Register(Register(0)))
+[04281] Push(Register(Register(1)))
+[04283] Push(Register(Register(2)))
+[04285] Add(Register(2), Literal(2716), Literal(2))
+[04289] ReadMem(Register(2), Register(Register(2)))
+[04292] JumpTrue(Register(Register(2)), Literal(4398))
+[04295] Call(Literal(4405))
+[04297] Push(Register(Register(0)))
+[04299] ReadMem(Register(0), Literal(3951))
+[04302] Add(Register(1), Register(Register(0)), Literal(3945))
+[04306] ReadMem(Register(1), Register(Register(1)))
+[04309] Set(Register(0), Literal(26122))
+[04312] Call(Literal(1518))
+[04314] Set(Register(0), Register(Register(1)))
+[04317] Call(Literal(1518))
+[04319] Set(Register(0), Literal(26170))
+[04322] Call(Literal(1518))
+[04324] Pop(Register(0))
+[04326] Set(Register(1), Register(Register(0)))
+[04329] ReadMem(Register(0), Literal(3952))
+[04332] ReadMem(Register(2), Literal(3951))
+[04335] Add(Register(2), Register(Register(2)), Literal(3948))
+[04339] ReadMem(Register(2), Register(Register(2)))
+[04342] Call(Register(Register(2)))
+[04344] JumpTrue(Register(Register(1)), Literal(4391))
+[04347] ReadMem(Register(1), Literal(3952))
+[04350] WriteMem(Literal(3952), Register(Register(0)))
+[04353] GreaterThan(Register(2), Register(Register(0)), Register(Register(1)))
+[04357] JumpFalse(Register(Register(2)), Literal(4369))
+[04360] Push(Register(Register(0)))
+[04362] Set(Register(0), Literal(26235))
+[04365] Call(Literal(1518))
+[04367] Pop(Register(0))
+[04369] GreaterThan(Register(2), Register(Register(1)), Register(Register(0)))
+[04373] JumpFalse(Register(Register(2)), Literal(4385))
+[04376] Push(Register(Register(0)))
+[04378] Set(Register(0), Literal(26267))
+[04381] Call(Literal(1518))
+[04383] Pop(Register(0))
+[04385] Out(Literal(10))
+[04387] Out(Literal(10))
+[04389] Jump(Literal(4398))
+[04391] Call(Literal(4660))
+[04393] Set(Register(0), Literal(26299))
+[04396] Call(Literal(1518))
+[04398] Pop(Register(2))
+[04400] Pop(Register(1))
+[04402] Pop(Register(0))
+[04404] Return
+[04405] Push(Register(Register(0)))
+[04407] Push(Register(Register(1)))
+[04409] Push(Register(Register(2)))
+[04411] Push(Register(Register(3)))
+[04413] Push(Register(Register(4)))
+[04415] Push(Register(Register(5)))
+[04417] ReadMem(Register(5), Literal(3953))
+[04420] GreaterThan(Register(3), Register(Register(5)), Literal(29999))
+[04424] JumpTrue(Register(Register(3)), Literal(4434))
+[04427] Add(Register(5), Register(Register(5)), Literal(1))
+[04431] WriteMem(Literal(3953), Register(Register(5)))
+[04434] Set(Register(3), Register(Register(0)))
+[04437] Set(Register(4), Register(Register(1)))
+[04440] Add(Register(0), Register(Register(5)), Literal(2))
+[04444] Call(Literal(2281))
+[04446] ReadMem(Register(1), Literal(3954))
+[04449] Or(Register(0), Register(Register(1)), Register(Register(0)))
+[04453] Set(Register(1), Register(Register(4)))
+[04456] Call(Literal(2248))
+[04458] WriteMem(Literal(3954), Register(Register(0)))
+[04461] Set(Register(0), Literal(3955))
+[04464] Add(Register(1), Register(Register(5)), Literal(2))
+[04468] Set(Register(2), Register(Register(4)))
+[04471] Call(Literal(4515))
+[04473] Set(Register(0), Literal(3956))
+[04476] Multiply(Register(1), Register(Register(5)), Register(Register(5)))
+[04480] Multiply(Register(2), Register(Register(4)), Register(Register(4)))
+[04484] Call(Literal(4515))
+[04486] Set(Register(0), Literal(3957))
+[04489] Set(Register(1), Literal(13))
+[04492] Multiply(Register(2), Register(Register(3)), Literal(9))
+[04496] Multiply(Register(2), Register(Register(2)), Register(Register(2)))
+[04500] Call(Literal(4515))
+[04502] Pop(Register(5))
+[04504] Pop(Register(4))
+[04506] Pop(Register(3))
+[04508] Pop(Register(2))
+[04510] Pop(Register(1))
+[04512] Pop(Register(0))
+[04514] Return
+[04515] Push(Register(Register(0)))
+[04517] ReadMem(Register(0), Register(Register(0)))
+[04520] Call(Literal(2248))
+[04522] Set(Register(1), Register(Register(2)))
+[04525] Call(Literal(2125))
+[04527] Pop(Register(1))
+[04529] WriteMem(Register(Register(1)), Register(Register(0)))
+[04532] Return
+[04533] Push(Register(Register(0)))
+[04535] Add(Register(0), Literal(2716), Literal(2))
+[04539] ReadMem(Register(0), Register(Register(0)))
+[04542] JumpTrue(Register(Register(0)), Literal(4608))
+[04545] Set(Register(0), Literal(26321))
+[04548] Call(Literal(1518))
+[04550] ReadMem(Register(0), Literal(3952))
+[04553] Equal(Register(0), Register(Register(0)), Literal(30))
+[04557] JumpTrue(Register(Register(0)), Literal(4574))
+[04560] Set(Register(0), Literal(26354))
+[04563] Call(Literal(1518))
+[04565] Set(Register(0), Literal(26398))
+[04568] Call(Literal(1518))
+[04570] Call(Literal(4660))
+[04572] Jump(Literal(4608))
+[04574] Set(Register(0), Literal(26440))
+[04577] Call(Literal(1518))
+[04579] ReadMem(Register(0), Literal(3954))
+[04582] Add(Register(0), Register(Register(0)), Literal(1))
+[04586] JumpTrue(Register(Register(0)), Literal(4596))
+[04589] Set(Register(0), Literal(26484))
+[04592] Call(Literal(1518))
+[04594] Jump(Literal(4565))
+[04596] Set(Register(0), Literal(26584))
+[04599] Call(Literal(1518))
+[04601] Add(Register(0), Literal(2716), Literal(2))
+[04605] WriteMem(Register(Register(0)), Literal(32767))
+[04608] Pop(Register(0))
+[04610] Return
+[04611] Push(Register(Register(0)))
+[04613] Add(Register(0), Literal(2716), Literal(2))
+[04617] ReadMem(Register(0), Register(Register(0)))
+[04620] JumpTrue(Register(Register(0)), Literal(4657))
+[04623] Set(Register(0), Literal(26717))
+[04626] Call(Literal(1518))
+[04628] ReadMem(Register(0), Literal(2732))
+[04631] Equal(Register(0), Register(Register(0)), Literal(2623))
+[04635] JumpTrue(Register(Register(0)), Literal(4645))
+[04638] Set(Register(0), Literal(26725))
+[04641] Call(Literal(1518))
+[04643] Jump(Literal(4650))
+[04645] Set(Register(0), Literal(26731))
+[04648] Call(Literal(1518))
+[04650] Set(Register(0), Literal(26737))
+[04653] Call(Literal(1518))
+[04655] Call(Literal(4660))
+[04657] Pop(Register(0))
+[04659] Return
+[04660] Push(Register(Register(0)))
+[04662] WriteMem(Literal(3952), Literal(22))
+[04665] WriteMem(Literal(3953), Literal(0))
+[04668] WriteMem(Literal(3954), Literal(0))
+[04671] WriteMem(Literal(3955), Literal(0))
+[04674] WriteMem(Literal(3956), Literal(0))
+[04677] WriteMem(Literal(3957), Literal(0))
+[04680] Add(Register(0), Literal(2716), Literal(2))
+[04684] WriteMem(Register(Register(0)), Literal(2623))
+[04687] Pop(Register(0))
+[04689] Return
+[04690] Push(Register(Register(0)))
+[04692] Add(Register(0), Literal(2716), Literal(2))
+[04696] ReadMem(Register(0), Register(Register(0)))
+[04699] Equal(Register(0), Register(Register(0)), Literal(32767))
+[04703] JumpTrue(Register(Register(0)), Literal(4717))
+[04706] Set(Register(0), Literal(26824))
+[04709] Call(Literal(1518))
+[04711] WriteMem(Literal(2732), Literal(2578))
+[04714] WriteMem(Literal(2733), Literal(2578))
+[04717] Pop(Register(0))
+[04719] Return
+[04720] Push(Register(Register(0)))
+[04722] Push(Register(Register(1)))
+[04724] Push(Register(Register(2)))
+[04726] Push(Register(Register(3)))
+[04728] Push(Register(Register(0)))
+[04730] Push(Register(Register(1)))
+[04732] Push(Register(Register(2)))
+[04734] Set(Register(0), Literal(28369))
+[04737] Set(Register(1), Literal(1531))
+[04740] Add(Register(2), Literal(8229), Literal(6609))
+[04744] Call(Literal(1458))
+[04746] Pop(Register(2))
+[04748] Pop(Register(1))
+[04750] Pop(Register(0))
+[04752] Set(Register(0), Literal(4242))
+[04755] Set(Register(1), Literal(25866))
+[04758] Set(Register(2), Literal(32767))
+[04761] Set(Register(3), Literal(28397))
+[04764] Call(Literal(1841))
+[04766] Push(Register(Register(0)))
+[04768] Push(Register(Register(1)))
+[04770] Push(Register(Register(2)))
+[04772] Set(Register(0), Literal(28401))
+[04775] Set(Register(1), Literal(1531))
+[04778] Add(Register(2), Literal(21853), Literal(8210))
+[04782] Call(Literal(1458))
+[04784] Pop(Register(2))
+[04786] Pop(Register(1))
+[04788] Pop(Register(0))
+[04790] Pop(Register(3))
+[04792] Pop(Register(2))
+[04794] Pop(Register(1))
+[04796] Pop(Register(0))
+[04798] Return
+[04799] Push(Register(Register(0)))
+[04801] Add(Register(0), Literal(2672), Literal(2))
+[04805] ReadMem(Register(0), Register(Register(0)))
+[04808] JumpTrue(Register(Register(0)), Literal(4858))
+[04811] Add(Register(0), Literal(2684), Literal(2))
+[04815] WriteMem(Register(Register(0)), Literal(32767))
+[04818] Add(Register(0), Literal(2672), Literal(2))
+[04822] WriteMem(Register(Register(0)), Literal(32767))
+[04825] Add(Register(0), Literal(2676), Literal(2))
+[04829] WriteMem(Register(Register(0)), Literal(0))
+[04832] Push(Register(Register(0)))
+[04834] Push(Register(Register(1)))
+[04836] Push(Register(Register(2)))
+[04838] Set(Register(0), Literal(28453))
+[04841] Set(Register(1), Literal(1531))
+[04844] Add(Register(2), Literal(3905), Literal(2214))
+[04848] Call(Literal(1458))
+[04850] Pop(Register(2))
+[04852] Pop(Register(1))
+[04854] Pop(Register(0))
+[04856] Jump(Literal(4882))
+[04858] Push(Register(Register(0)))
+[04860] Push(Register(Register(1)))
+[04862] Push(Register(Register(2)))
+[04864] Set(Register(0), Literal(28510))
+[04867] Set(Register(1), Literal(1531))
+[04870] Add(Register(2), Literal(26344), Literal(1031))
+[04874] Call(Literal(1458))
+[04876] Pop(Register(2))
+[04878] Pop(Register(1))
+[04880] Pop(Register(0))
+[04882] Pop(Register(0))
+[04884] Return
+[04885] Push(Register(Register(0)))
+[04887] Add(Register(0), Literal(2676), Literal(2))
+[04891] WriteMem(Register(Register(0)), Literal(32767))
+[04894] Add(Register(0), Literal(2680), Literal(2))
+[04898] WriteMem(Register(Register(0)), Literal(0))
+[04901] Push(Register(Register(0)))
+[04903] Push(Register(Register(1)))
+[04905] Push(Register(Register(2)))
+[04907] Set(Register(0), Literal(28569))
+[04910] Set(Register(1), Literal(1531))
+[04913] Add(Register(2), Literal(15773), Literal(7895))
+[04917] Call(Literal(1458))
+[04919] Pop(Register(2))
+[04921] Pop(Register(1))
+[04923] Pop(Register(0))
+[04925] WriteMem(Literal(2733), Literal(0))
+[04928] Pop(Register(0))
+[04930] Return
+[04931] Push(Register(Register(0)))
+[04933] Add(Register(0), Literal(2676), Literal(2))
+[04937] WriteMem(Register(Register(0)), Literal(0))
+[04940] Add(Register(0), Literal(2680), Literal(2))
+[04944] WriteMem(Register(Register(0)), Literal(32767))
+[04947] Push(Register(Register(0)))
+[04949] Push(Register(Register(1)))
+[04951] Push(Register(Register(2)))
+[04953] Set(Register(0), Literal(28595))
+[04956] Set(Register(1), Literal(1531))
+[04959] Add(Register(2), Literal(447), Literal(64))
+[04963] Call(Literal(1458))
+[04965] Pop(Register(2))
+[04967] Pop(Register(1))
+[04969] Pop(Register(0))
+[04971] WriteMem(Literal(2733), Literal(0))
+[04974] Pop(Register(0))
+[04976] Return
+[04977] Push(Register(Register(2)))
+[04979] Push(Register(Register(3)))
+[04981] ReadMem(Register(2), Literal(2732))
+[04984] Equal(Register(2), Register(Register(2)), Literal(2457))
+[04988] JumpTrue(Register(Register(2)), Literal(5017))
+[04991] Push(Register(Register(0)))
+[04993] Push(Register(Register(1)))
+[04995] Push(Register(Register(2)))
+[04997] Set(Register(0), Literal(28621))
+[05000] Set(Register(1), Literal(1531))
+[05003] Add(Register(2), Literal(3961), Literal(10613))
+[05007] Call(Literal(1458))
+[05009] Pop(Register(2))
+[05011] Pop(Register(1))
+[05013] Pop(Register(0))
+[05015] Jump(Literal(5336))
+[05017] Add(Register(2), Register(Register(0)), Literal(2))
+[05021] WriteMem(Register(Register(2)), Literal(32767))
+[05024] ReadMem(Register(2), Literal(2462))
+[05027] Add(Register(2), Register(Register(2)), Literal(27095))
+[05031] Add(Register(2), Register(Register(2)), Literal(1))
+[05035] ReadMem(Register(2), Register(Register(2)))
+[05038] Add(Register(3), Literal(2457), Literal(1))
+[05042] ReadMem(Register(3), Register(Register(3)))
+[05045] Add(Register(3), Register(Register(3)), Register(Register(2)))
+[05049] Add(Register(2), Register(Register(1)), Literal(48))
+[05053] WriteMem(Register(Register(3)), Register(Register(2)))
+[05056] ReadMem(Register(2), Literal(2462))
+[05059] Add(Register(2), Register(Register(2)), Literal(27101))
+[05063] Add(Register(2), Register(Register(2)), Literal(1))
+[05067] WriteMem(Register(Register(2)), Register(Register(1)))
+[05070] Push(Register(Register(0)))
+[05072] Push(Register(Register(0)))
+[05074] Push(Register(Register(1)))
+[05076] Push(Register(Register(2)))
+[05078] Set(Register(0), Literal(28664))
+[05081] Set(Register(1), Literal(1531))
+[05084] Add(Register(2), Literal(4018), Literal(21946))
+[05088] Call(Literal(1458))
+[05090] Pop(Register(2))
+[05092] Pop(Register(1))
+[05094] Pop(Register(0))
+[05096] Pop(Register(0))
+[05098] Push(Register(Register(0)))
+[05100] Add(Register(2), Register(Register(0)), Literal(0))
+[05104] ReadMem(Register(0), Register(Register(2)))
+[05107] Call(Literal(1518))
+[05109] Pop(Register(0))
+[05111] Push(Register(Register(0)))
+[05113] Push(Register(Register(0)))
+[05115] Push(Register(Register(1)))
+[05117] Push(Register(Register(2)))
+[05119] Set(Register(0), Literal(28679))
+[05122] Set(Register(1), Literal(1531))
+[05125] Add(Register(2), Literal(1376), Literal(3086))
+[05129] Call(Literal(1458))
+[05131] Pop(Register(2))
+[05133] Pop(Register(1))
+[05135] Pop(Register(0))
+[05137] Pop(Register(0))
+[05139] ReadMem(Register(2), Literal(2462))
+[05142] Add(Register(2), Register(Register(2)), Literal(1))
+[05146] WriteMem(Literal(2462), Register(Register(2)))
+[05149] ReadMem(Register(3), Literal(27101))
+[05152] Equal(Register(3), Register(Register(2)), Register(Register(3)))
+[05156] JumpFalse(Register(Register(3)), Literal(5336))
+[05159] Set(Register(0), Literal(0))
+[05162] Add(Register(1), Literal(27101), Literal(1))
+[05166] ReadMem(Register(1), Register(Register(1)))
+[05169] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[05173] Add(Register(1), Literal(27101), Literal(2))
+[05177] ReadMem(Register(1), Register(Register(1)))
+[05180] Add(Register(2), Literal(27101), Literal(3))
+[05184] ReadMem(Register(2), Register(Register(2)))
+[05187] Multiply(Register(2), Register(Register(2)), Register(Register(2)))
+[05191] Multiply(Register(1), Register(Register(1)), Register(Register(2)))
+[05195] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[05199] Add(Register(1), Literal(27101), Literal(4))
+[05203] ReadMem(Register(1), Register(Register(1)))
+[05206] Multiply(Register(2), Register(Register(1)), Register(Register(1)))
+[05210] Multiply(Register(2), Register(Register(2)), Register(Register(1)))
+[05214] Add(Register(0), Register(Register(0)), Register(Register(2)))
+[05218] Add(Register(1), Literal(27101), Literal(5))
+[05222] ReadMem(Register(1), Register(Register(1)))
+[05225] Multiply(Register(1), Register(Register(1)), Literal(32767))
+[05229] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[05233] Equal(Register(1), Register(Register(0)), Literal(399))
+[05237] JumpTrue(Register(Register(1)), Literal(5312))
+[05240] Add(Register(2), Literal(2688), Literal(2))
+[05244] WriteMem(Register(Register(2)), Literal(2457))
+[05247] Add(Register(2), Literal(2692), Literal(2))
+[05251] WriteMem(Register(Register(2)), Literal(2457))
+[05254] Add(Register(2), Literal(2696), Literal(2))
+[05258] WriteMem(Register(Register(2)), Literal(2457))
+[05261] Add(Register(2), Literal(2700), Literal(2))
+[05265] WriteMem(Register(Register(2)), Literal(2457))
+[05268] Add(Register(2), Literal(2704), Literal(2))
+[05272] WriteMem(Register(Register(2)), Literal(2457))
+[05275] WriteMem(Literal(2462), Literal(0))
+[05278] Set(Register(0), Literal(27095))
+[05281] Set(Register(1), Literal(5341))
+[05284] Call(Literal(1458))
+[05286] Push(Register(Register(0)))
+[05288] Push(Register(Register(1)))
+[05290] Push(Register(Register(2)))
+[05292] Set(Register(0), Literal(28710))
+[05295] Set(Register(1), Literal(1531))
+[05298] Add(Register(2), Literal(6268), Literal(18422))
+[05302] Call(Literal(1458))
+[05304] Pop(Register(2))
+[05306] Pop(Register(1))
+[05308] Pop(Register(0))
+[05310] Jump(Literal(5336))
+[05312] Push(Register(Register(0)))
+[05314] Push(Register(Register(1)))
+[05316] Push(Register(Register(2)))
+[05318] Set(Register(0), Literal(28777))
+[05321] Set(Register(1), Literal(1531))
+[05324] Add(Register(2), Literal(9878), Literal(13516))
+[05328] Call(Literal(1458))
+[05330] Pop(Register(2))
+[05332] Pop(Register(1))
+[05334] Pop(Register(0))
+[05336] Pop(Register(3))
+[05338] Pop(Register(2))
+[05340] Return
+[05341] Push(Register(Register(2)))
+[05343] Add(Register(2), Literal(2457), Literal(1))
+[05347] ReadMem(Register(2), Register(Register(2)))
+[05350] Add(Register(2), Register(Register(2)), Register(Register(0)))
+[05354] WriteMem(Register(Register(2)), Literal(95))
+[05357] Pop(Register(2))
+[05359] Return
+[05360] Push(Register(Register(0)))
+[05362] Push(Register(Register(1)))
+[05364] Set(Register(0), Literal(2688))
+[05367] Set(Register(1), Literal(2))
+[05370] Call(Literal(4977))
+[05372] Pop(Register(1))
+[05374] Pop(Register(0))
+[05376] Return
+[05377] Push(Register(Register(0)))
+[05379] Push(Register(Register(1)))
+[05381] Set(Register(0), Literal(2692))
+[05384] Set(Register(1), Literal(3))
+[05387] Call(Literal(4977))
+[05389] Pop(Register(1))
+[05391] Pop(Register(0))
+[05393] Return
+[05394] Push(Register(Register(0)))
+[05396] Push(Register(Register(1)))
+[05398] Set(Register(0), Literal(2696))
+[05401] Set(Register(1), Literal(5))
+[05404] Call(Literal(4977))
+[05406] Pop(Register(1))
+[05408] Pop(Register(0))
+[05410] Return
+[05411] Push(Register(Register(0)))
+[05413] Push(Register(Register(1)))
+[05415] Set(Register(0), Literal(2700))
+[05418] Set(Register(1), Literal(7))
+[05421] Call(Literal(4977))
+[05423] Pop(Register(1))
+[05425] Pop(Register(0))
+[05427] Return
+[05428] Push(Register(Register(0)))
+[05430] Push(Register(Register(1)))
+[05432] Set(Register(0), Literal(2704))
+[05435] Set(Register(1), Literal(9))
+[05438] Call(Literal(4977))
+[05440] Pop(Register(1))
+[05442] Pop(Register(0))
+[05444] Return
+[05445] Push(Register(Register(0)))
+[05447] Push(Register(Register(1)))
+[05449] Push(Register(Register(2)))
+[05451] JumpFalse(Register(Register(7)), Literal(5605))
+[05454] Push(Register(Register(0)))
+[05456] Push(Register(Register(1)))
+[05458] Push(Register(Register(2)))
+[05460] Set(Register(0), Literal(28844))
+[05463] Set(Register(1), Literal(1531))
+[05466] Add(Register(2), Literal(17836), Literal(11723))
+[05470] Call(Literal(1458))
+[05472] Pop(Register(2))
+[05474] Pop(Register(1))
+[05476] Pop(Register(0))
+[05478] Noop
+[05479] Noop
+[05480] Noop
+[05481] Noop
+[05482] Noop
+[05483] Set(Register(0), Literal(4))
+[05486] Set(Register(1), Literal(1))
+[05489] Call(Literal(6027))
+[05491] Equal(Register(1), Register(Register(0)), Literal(6))
+[05495] JumpFalse(Register(Register(1)), Literal(5579))
+[05498] Push(Register(Register(0)))
+[05500] Push(Register(Register(1)))
+[05502] Push(Register(Register(2)))
+[05504] Set(Register(0), Literal(29014))
+[05507] Set(Register(1), Literal(1531))
+[05510] Add(Register(2), Literal(18481), Literal(2250))
+[05514] Call(Literal(1458))
+[05516] Pop(Register(2))
+[05518] Pop(Register(1))
+[05520] Pop(Register(0))
+[05522] Set(Register(0), Register(Register(7)))
+[05525] Set(Register(1), Literal(25866))
+[05528] Set(Register(2), Literal(32767))
+[05531] Push(Register(Register(3)))
+[05533] Set(Register(3), Literal(29241))
+[05536] Call(Literal(1841))
+[05538] Pop(Register(3))
+[05540] Push(Register(Register(0)))
+[05542] Push(Register(Register(1)))
+[05544] Push(Register(Register(2)))
+[05546] Set(Register(0), Literal(29245))
+[05549] Set(Register(1), Literal(1531))
+[05552] Add(Register(2), Literal(12041), Literal(10606))
+[05556] Call(Literal(1458))
+[05558] Pop(Register(2))
+[05560] Pop(Register(1))
+[05562] Pop(Register(0))
+[05564] WriteMem(Literal(2732), Literal(2498))
+[05567] WriteMem(Literal(2733), Literal(0))
+[05570] Add(Register(1), Literal(2708), Literal(2))
+[05574] WriteMem(Register(Register(1)), Literal(32767))
+[05577] Jump(Literal(5714))
+[05579] Push(Register(Register(0)))
+[05581] Push(Register(Register(1)))
+[05583] Push(Register(Register(2)))
+[05585] Set(Register(0), Literal(29400))
+[05588] Set(Register(1), Literal(1531))
+[05591] Add(Register(2), Literal(331), Literal(418))
+[05595] Call(Literal(1458))
+[05597] Pop(Register(2))
+[05599] Pop(Register(1))
+[05601] Pop(Register(0))
+[05603] Jump(Literal(5714))
+[05605] Push(Register(Register(0)))
+[05607] Push(Register(Register(1)))
+[05609] Push(Register(Register(2)))
+[05611] Set(Register(0), Literal(29545))
+[05614] Set(Register(1), Literal(1531))
+[05617] Add(Register(2), Literal(8122), Literal(4408))
+[05621] Call(Literal(1458))
+[05623] Pop(Register(2))
+[05625] Pop(Register(1))
+[05627] Pop(Register(0))
+[05629] Set(Register(0), Literal(0))
+[05632] Add(Register(2), Literal(1), Literal(27101))
+[05636] ReadMem(Register(1), Register(Register(2)))
+[05639] Add(Register(0), Register(Register(0)), Register(Register(1)))
+[05643] Multiply(Register(0), Register(Register(0)), Literal(31660))
+[05647] Call(Literal(2125))
+[05649] ReadMem(Register(1), Literal(27101))
+[05652] Add(Register(1), Register(Register(1)), Literal(27101))
+[05656] Add(Register(2), Register(Register(2)), Literal(1))
+[05660] GreaterThan(Register(1), Register(Register(2)), Register(Register(1)))
+[05664] JumpFalse(Register(Register(1)), Literal(5636))
+[05667] Set(Register(1), Literal(25866))
+[05670] Set(Register(2), Literal(32767))
+[05673] Push(Register(Register(3)))
+[05675] Set(Register(3), Literal(29663))
+[05678] Call(Literal(1841))
+[05680] Pop(Register(3))
+[05682] Push(Register(Register(0)))
+[05684] Push(Register(Register(1)))
+[05686] Push(Register(Register(2)))
+[05688] Set(Register(0), Literal(29667))
+[05691] Set(Register(1), Literal(1531))
+[05694] Add(Register(2), Literal(9878), Literal(345))
+[05698] Call(Literal(1458))
+[05700] Pop(Register(2))
+[05702] Pop(Register(1))
+[05704] Pop(Register(0))
+[05706] WriteMem(Literal(2732), Literal(2488))
+[05709] WriteMem(Literal(2733), Literal(0))
+[05712] Jump(Literal(5714))
+[05714] Pop(Register(2))
+[05716] Pop(Register(1))
+[05718] Pop(Register(0))
+[05720] Return
+[05721] Push(Register(Register(0)))
+[05723] Push(Register(Register(1)))
+[05725] Push(Register(Register(2)))
+[05727] Push(Register(Register(3)))
+[05729] Push(Register(Register(0)))
+[05731] Push(Register(Register(1)))
+[05733] Push(Register(Register(2)))
+[05735] Set(Register(0), Literal(29757))
+[05738] Set(Register(1), Literal(1531))
+[05741] Add(Register(2), Literal(5430), Literal(5703))
+[05745] Call(Literal(1458))
+[05747] Pop(Register(2))
+[05749] Pop(Register(1))
+[05751] Pop(Register(0))
+[05753] ReadMem(Register(0), Literal(3955))
+[05756] ReadMem(Register(1), Literal(3956))
+[05759] Call(Literal(2125))
+[05761] ReadMem(Register(1), Literal(3957))
+[05764] Call(Literal(2125))
+[05766] Set(Register(1), Literal(25919))
+[05769] Set(Register(2), Literal(4))
+[05772] Push(Register(Register(3)))
+[05774] Set(Register(3), Literal(29942))
+[05777] Call(Literal(1841))
+[05779] Pop(Register(3))
+[05781] Push(Register(Register(0)))
+[05783] Push(Register(Register(1)))
+[05785] Push(Register(Register(2)))
+[05787] Set(Register(0), Literal(29946))
+[05790] Set(Register(1), Literal(1531))
+[05793] Add(Register(2), Literal(11625), Literal(8585))
+[05797] Call(Literal(1458))
+[05799] Pop(Register(2))
+[05801] Pop(Register(1))
+[05803] Pop(Register(0))
+[05805] Pop(Register(3))
+[05807] Pop(Register(2))
+[05809] Pop(Register(1))
+[05811] Pop(Register(0))
+[05813] Return
+[05814] Out(Literal(45))
+[05816] Out(Literal(32))
+[05818] Call(Literal(1518))
+[05820] Out(Literal(10))
+[05822] Return
+[05823] Push(Register(Register(1)))
+[05825] Push(Register(Register(2)))
+[05827] Set(Register(0), Literal(27381))
+[05830] Set(Register(1), Literal(5846))
+[05833] Set(Register(2), Literal(0))
+[05836] Call(Literal(1458))
+[05838] Set(Register(0), Register(Register(2)))
+[05841] Pop(Register(2))
+[05843] Pop(Register(1))
+[05845] Return
+[05846] Push(Register(Register(3)))
+[05848] Push(Register(Register(4)))
+[05850] ReadMem(Register(3), Literal(2732))
+[05853] Add(Register(4), Register(Register(0)), Literal(2))
+[05857] ReadMem(Register(4), Register(Register(4)))
+[05860] Equal(Register(3), Register(Register(3)), Register(Register(4)))
+[05864] JumpFalse(Register(Register(3)), Literal(5871))
+[05867] Add(Register(2), Register(Register(2)), Literal(1))
+[05871] Pop(Register(4))
+[05873] Pop(Register(3))
+[05875] Return
+[05876] Push(Register(Register(0)))
+[05878] Push(Register(Register(1)))
+[05880] Set(Register(0), Literal(27381))
+[05883] Set(Register(1), Literal(5893))
+[05886] Call(Literal(1458))
+[05888] Pop(Register(1))
+[05890] Pop(Register(0))
+[05892] Return
+[05893] Push(Register(Register(3)))
+[05895] Add(Register(3), Register(Register(0)), Literal(2))
+[05899] ReadMem(Register(3), Register(Register(3)))
+[05902] Equal(Register(3), Register(Register(2)), Register(Register(3)))
+[05906] JumpFalse(Register(Register(3)), Literal(5918))
+[05909] Add(Register(0), Register(Register(0)), Literal(0))
+[05913] ReadMem(Register(0), Register(Register(0)))
+[05916] Call(Literal(5814))
+[05918] Pop(Register(3))
+[05920] Return
+[05921] Push(Register(Register(1)))
+[05923] Push(Register(Register(2)))
+[05925] Set(Register(2), Register(Register(0)))
+[05928] Set(Register(0), Literal(27381))
+[05931] Set(Register(1), Literal(5964))
+[05934] Call(Literal(1543))
+[05936] Equal(Register(1), Register(Register(0)), Literal(32767))
+[05940] JumpTrue(Register(Register(1)), Literal(5956))
+[05943] Add(Register(1), Literal(27381), Register(Register(0)))
+[05947] Add(Register(1), Register(Register(1)), Literal(1))
+[05951] ReadMem(Register(0), Register(Register(1)))
+[05954] Jump(Literal(5959))
+[05956] Set(Register(0), Literal(0))
+[05959] Pop(Register(2))
+[05961] Pop(Register(1))
+[05963] Return
+[05964] Push(Register(Register(1)))
+[05966] Set(Register(1), Register(Register(2)))
+[05969] Add(Register(0), Register(Register(0)), Literal(0))
+[05973] ReadMem(Register(0), Register(Register(0)))
+[05976] Call(Literal(1667))
+[05978] Pop(Register(1))
+[05980] JumpFalse(Register(Register(0)), Literal(5989))
+[05983] Set(Register(2), Register(Register(1)))
+[05986] Set(Register(1), Literal(32767))
+[05989] Return
+[05990] Push(Register(Register(1)))
+[05992] Push(Register(Register(2)))
+[05994] Add(Register(0), Register(Register(0)), Literal(2))
+[05998] ReadMem(Register(0), Register(Register(0)))
+[06001] JumpFalse(Register(Register(0)), Literal(6019))
+[06004] ReadMem(Register(1), Literal(2732))
+[06007] Equal(Register(1), Register(Register(0)), Register(Register(1)))
+[06011] JumpTrue(Register(Register(1)), Literal(6019))
+[06014] Set(Register(0), Literal(0))
+[06017] Jump(Literal(6022))
+[06019] Set(Register(0), Literal(1))
+[06022] Pop(Register(2))
+[06024] Pop(Register(1))
+[06026] Return
+[06027] JumpTrue(Register(Register(0)), Literal(6035))
+[06030] Add(Register(0), Register(Register(1)), Literal(1))
+[06034] Return
+[06035] JumpTrue(Register(Register(1)), Literal(6048))
+[06038] Add(Register(0), Register(Register(0)), Literal(32767))
+[06042] Set(Register(1), Register(Register(7)))
+[06045] Call(Literal(6027))
+[06047] Return
+[06048] Push(Register(Register(0)))
+[06050] Add(Register(1), Register(Register(1)), Literal(32767))
+[06054] Call(Literal(6027))
+[06056] Set(Register(1), Register(Register(0)))
+[06059] Pop(Register(0))
+[06061] Add(Register(0), Register(Register(0)), Literal(32767))
+[06065] Call(Literal(6027))
+[06067] Return
+[06336] JumpTrue(Literal(100), Literal(111))
+[06909] Jump(Literal(98))
+[07056] JumpFalse(Literal(99), Literal(111))
+[07791] JumpTrue(Literal(112), Literal(97))
+[07799] JumpTrue(Literal(80), Literal(97))
+[07984] Jump(Literal(99))
+[07991] Jump(Literal(108))
+[07998] JumpFalse(Literal(100), Literal(97))
+[08007] JumpTrue(Literal(80), Literal(97))
+[08149] JumpFalse(Literal(99), Literal(111))
+[08303] Jump(Literal(108))
+[10889] Push(Literal(117))
+[11078] Push(Literal(117))
+[11544] JumpTrue(Literal(111), Literal(117))
+[11719] Jump(Literal(105))
+[16791] Call(Literal(86))
+[17793] JumpTrue(Literal(102), Literal(111))
+[17949] Call(Literal(80))
+[18061] Halt
+[18062] Jump(Literal(116))
+[18344] JumpTrue(Literal(108), Literal(97))
+[18618] JumpFalse(Literal(114), Literal(101))
+[19258] Jump(Literal(109))
+[22093] JumpTrue(Literal(106), Literal(111))
+[25943] Push(Literal(103))
+[25993] Halt
+[25994] Halt
+[25995] Halt
+[25996] Halt
+[25997] Halt
+[25998] Halt
+[25999] Halt
+[26000] Halt
+[26001] Halt
+[26002] Halt
+[26003] Halt
+[26004] Halt
+[26005] Halt
+[26006] Halt
+[26017] Jump(Literal(121))
+[26299] Noop
+[26717] JumpTrue(Literal(65), Literal(115))
+[26900] Push(Literal(6336))
+[26903] Push(Literal(2327))
+[26910] Push(Literal(6585))
+[26913] Push(Literal(2332))
+[26916] Push(Literal(6699))
+[26919] Push(Literal(2337))
+[26922] Push(Literal(6909))
+[26925] Push(Literal(2342))
+[26928] Push(Literal(7056))
+[26931] Push(Literal(2347))
+[26938] Push(Literal(7492))
+[26941] Push(Literal(2362))
+[26948] Push(Literal(7786))
+[26951] Push(Literal(2352))
+[26962] Push(Literal(8015))
+[26965] Push(Literal(8149))
+[26968] Push(Literal(2427))
+[27043] Push(Literal(9247))
+[27046] Push(Literal(2387))
+[27049] Push(Literal(9387))
+[27052] Push(Literal(2432))
+[27055] Push(Literal(9445))
+[27058] Push(Literal(2427))
+[27061] Push(Literal(9503))
+[27064] Push(Literal(2432))
+[27067] Push(Literal(9627))
+[27070] Push(Literal(2437))
+[27073] Push(Literal(9892))
+[27076] Push(Literal(2442))
+[27079] Push(Literal(10091))
+[27082] Push(Literal(2457))
+[27103] Push(Literal(5))
+[27105] JumpTrue(Literal(3), Literal(1))
+[27111] Push(Literal(10750))
+[27114] Push(Literal(2473))
+[27121] Push(Literal(11078))
+[27124] Push(Literal(2483))
+[27147] Push(Literal(12188))
+[27150] Push(Literal(2498))
+[27153] Push(Literal(12448))
+[27156] Push(Literal(2498))
+[27175] Push(Literal(13094))
+[27178] Push(Literal(2528))
+[27181] Push(Literal(13408))
+[27184] Push(Literal(2533))
+[27187] Push(Literal(13682))
+[27190] Push(Literal(2538))
+[27193] Push(Literal(13929))
+[27196] Push(Literal(2543))
+[27199] Push(Literal(14078))
+[27202] Push(Literal(2548))
+[27217] Push(Literal(14753))
+[27220] Push(Literal(2623))
+[27223] Push(Literal(14905))
+[27226] Push(Literal(2568))
+[27349] Push(Literal(17425))
+[27352] Push(Literal(2618))
+[27359] Push(Literal(17793))
+[27362] Push(Literal(2653))
+[27365] Push(Literal(17933))
+[27368] Push(Literal(2658))
+[27379] Halt
+[27380] Halt
+[27381] WriteMem(Literal(2668), Literal(2672))
+[27398] JumpTrue(Literal(25943), Literal(25946))
+[27406] JumpTrue(Literal(3245), Literal(2964))
+[27414] Call(Literal(19697))
+[28037] WriteMem(Literal(14374), Literal(14352))
+[28054] JumpTrue(Literal(24740), Literal(24721))
+[28347] Noop
+[30050] Halt
+[30051] Halt
+[30052] Halt
+[30053] Halt
+[30054] Halt
+[30055] Halt
+[30056] Halt
+[30057] Halt
+[30058] Halt
+[30059] Halt
+[30060] Halt
+[30061] Halt
+[30062] Halt
+[30063] Halt
+[30064] Halt
+[30065] Halt
+[30066] Halt
+[30067] Halt
+[30068] Halt
+[30069] Halt
+[30070] Halt
+[30071] Halt
+[30072] Halt
+[30073] Halt
+[30074] Halt
+[30075] Halt
+[30076] Halt
+[30077] Halt
+[30078] Halt
+[30079] Halt
+[30080] Halt
+[30081] Halt
+[30082] Halt
+[30083] Halt
+[30084] Halt
+[30085] Halt
+[30086] Halt
+[30087] Halt
+[30088] Halt
+[30089] Halt
+[30090] Halt
+[30091] Halt
+[30092] Halt
+[30093] Halt
+[30094] Halt
+[30095] Halt
+[30096] Halt
+[30097] Halt
+[30098] Halt
+[30099] Halt
+[30100] Halt
+[30101] Halt
+[30102] Halt
+[30103] Halt
+[30104] Halt
+[30105] Halt
+[30106] Halt
+[30107] Halt
+[30108] Halt
+[30109] Halt
+[30110] Halt
+[30111] Halt
+[30112] Halt
+[30113] Halt
+[30114] Halt
+[30115] Halt
+[30116] Halt
+[30117] Halt
+[30118] Halt
+[30119] Halt
+[30120] Halt
+[30121] Halt
+[30122] Halt
+[30123] Halt
+[30124] Halt
+[30125] Halt
+[30126] Halt
+[30127] Halt
+[30128] Halt
+[30129] Halt
+[30130] Halt
+[30131] Halt
+[30132] Halt
+[30133] Halt
+[30134] Halt
+[30135] Halt
+[30136] Halt
+[30137] Halt
+[30138] Halt
+[30139] Halt
+[30140] Halt
+[30141] Halt
+[30142] Halt
+[30143] Halt
+[30144] Halt
+[30145] Halt
+[30146] Halt
+[30147] Halt
+[30148] Halt
+[30149] Halt
+[30150] Halt
+[30151] Halt
+[30152] Halt
+[30153] Halt
+[30154] Halt
+[30155] Halt
+[30156] Halt
+[30157] Halt
+[30158] Halt
+[30159] Halt
+[30160] Halt
+[30161] Halt
+[30162] Halt
+[30163] Halt
+[30164] Halt
+[30165] Halt
+[30166] Halt
+[30167] Halt
+[30168] Halt
+[30169] Halt
+[30170] Halt
+[30171] Halt
+[30172] Halt
+[30173] Halt
+[30174] Halt
+[30175] Halt
+[30176] Halt
+[30177] Halt
+[30178] Halt
+[30179] Halt
+[30180] Halt
+[30181] Halt
+[30182] Halt
+[30183] Halt
+[30184] Halt
+[30185] Halt
+[30186] Halt
+[30187] Halt
+[30188] Halt
+[30189] Halt
+[30190] Halt
+[30191] Halt
+[30192] Halt
+[30193] Halt
+[30194] Halt
+[30195] Halt
+[30196] Halt
+[30197] Halt
+[30198] Halt
+[30199] Halt
+[30200] Halt
+[30201] Halt
+[30202] Halt
+[30203] Halt
+[30204] Halt
+[30205] Halt
+[30206] Halt
+[30207] Halt
+[30208] Halt
+[30209] Halt
+[30210] Halt
+[30211] Halt
+[30212] Halt
+[30213] Halt
+[30214] Halt
+[30215] Halt
+[30216] Halt
+[30217] Halt
+[30218] Halt
+[30219] Halt
+[30220] Halt
+[30221] Halt
+[30222] Halt
+[30223] Halt
+[30224] Halt
+[30225] Halt
+[30226] Halt
+[30227] Halt
+[30228] Halt
+[30229] Halt
+[30230] Halt
+[30231] Halt
+[30232] Halt
+[30233] Halt
+[30234] Halt
+[30235] Halt
+[30236] Halt
+[30237] Halt
+[30238] Halt
+[30239] Halt
+[30240] Halt
+[30241] Halt
+[30242] Halt
+[30243] Halt
+[30244] Halt
+[30245] Halt
+[30246] Halt
+[30247] Halt
+[30248] Halt
+[30249] Halt
+[30250] Halt
+[30251] Halt
+[30252] Halt
+[30253] Halt
+[30254] Halt
+[30255] Halt
+[30256] Halt
+[30257] Halt
+[30258] Halt
+[30259] Halt
+[30260] Halt
+[30261] Halt
+[30262] Halt
+[30263] Halt
+[30264] Halt
+[30265] Halt
+[30266] Halt
+[30267] Halt
+[30268] Halt
+[30269] Halt
+[30270] Halt
+[30271] Halt
+[30272] Halt
+[30273] Halt
+[30274] Halt
+[30275] Halt
+[30276] Halt
+[30277] Halt
+[30278] Halt
+[30279] Halt
+[30280] Halt
+[30281] Halt
+[30282] Halt
+[30283] Halt
+[30284] Halt
+[30285] Halt
+[30286] Halt
+[30287] Halt
+[30288] Halt
+[30289] Halt
+[30290] Halt
+[30291] Halt
+[30292] Halt
+[30293] Halt
+[30294] Halt
+[30295] Halt
+[30296] Halt
+[30297] Halt
+[30298] Halt
+[30299] Halt
+[30300] Halt
+[30301] Halt
+[30302] Halt
+[30303] Halt
+[30304] Halt
+[30305] Halt
+[30306] Halt
+[30307] Halt
+[30308] Halt
+[30309] Halt
+[30310] Halt
+[30311] Halt
+[30312] Halt
+[30313] Halt
+[30314] Halt
+[30315] Halt
+[30316] Halt
+[30317] Halt
+[30318] Halt
+[30319] Halt
+[30320] Halt
+[30321] Halt
+[30322] Halt
+[30323] Halt
+[30324] Halt
+[30325] Halt
+[30326] Halt
+[30327] Halt
+[30328] Halt
+[30329] Halt
+[30330] Halt
+[30331] Halt
+[30332] Halt
+[30333] Halt
+[30334] Halt
+[30335] Halt
+[30336] Halt
+[30337] Halt
+[30338] Halt
+[30339] Halt
+[30340] Halt
+[30341] Halt
+[30342] Halt
+[30343] Halt
+[30344] Halt
+[30345] Halt
+[30346] Halt
+[30347] Halt
+[30348] Halt
+[30349] Halt
+[30350] Halt
+[30351] Halt
+[30352] Halt
+[30353] Halt
+[30354] Halt
+[30355] Halt
+[30356] Halt
+[30357] Halt
+[30358] Halt
+[30359] Halt
+[30360] Halt
+[30361] Halt
+[30362] Halt
+[30363] Halt
+[30364] Halt
+[30365] Halt
+[30366] Halt
+[30367] Halt
+[30368] Halt
+[30369] Halt
+[30370] Halt
+[30371] Halt
+[30372] Halt
+[30373] Halt
+[30374] Halt
+[30375] Halt
+[30376] Halt
+[30377] Halt
+[30378] Halt
+[30379] Halt
+[30380] Halt
+[30381] Halt
+[30382] Halt
+[30383] Halt
+[30384] Halt
+[30385] Halt
+[30386] Halt
+[30387] Halt
+[30388] Halt
+[30389] Halt
+[30390] Halt
+[30391] Halt
+[30392] Halt
+[30393] Halt
+[30394] Halt
+[30395] Halt
+[30396] Halt
+[30397] Halt
+[30398] Halt
+[30399] Halt
+[30400] Halt
+[30401] Halt
+[30402] Halt
+[30403] Halt
+[30404] Halt
+[30405] Halt
+[30406] Halt
+[30407] Halt
+[30408] Halt
+[30409] Halt
+[30410] Halt
+[30411] Halt
+[30412] Halt
+[30413] Halt
+[30414] Halt
+[30415] Halt
+[30416] Halt
+[30417] Halt
+[30418] Halt
+[30419] Halt
+[30420] Halt
+[30421] Halt
+[30422] Halt
+[30423] Halt
+[30424] Halt
+[30425] Halt
+[30426] Halt
+[30427] Halt
+[30428] Halt
+[30429] Halt
+[30430] Halt
+[30431] Halt
+[30432] Halt
+[30433] Halt
+[30434] Halt
+[30435] Halt
+[30436] Halt
+[30437] Halt
+[30438] Halt
+[30439] Halt
+[30440] Halt
+[30441] Halt
+[30442] Halt
+[30443] Halt
+[30444] Halt
+[30445] Halt
+[30446] Halt
+[30447] Halt
+[30448] Halt
+[30449] Halt
+[30450] Halt
+[30451] Halt
+[30452] Halt
+[30453] Halt
+[30454] Halt
+[30455] Halt
+[30456] Halt
+[30457] Halt
+[30458] Halt
+[30459] Halt
+[30460] Halt
+[30461] Halt
+[30462] Halt
+[30463] Halt
+[30464] Halt
+[30465] Halt
+[30466] Halt
+[30467] Halt
+[30468] Halt
+[30469] Halt
+[30470] Halt
+[30471] Halt
+[30472] Halt
+[30473] Halt
+[30474] Halt
+[30475] Halt
+[30476] Halt
+[30477] Halt
+[30478] Halt
+[30479] Halt
+[30480] Halt
+[30481] Halt
+[30482] Halt
+[30483] Halt
+[30484] Halt
+[30485] Halt
+[30486] Halt
+[30487] Halt
+[30488] Halt
+[30489] Halt
+[30490] Halt
+[30491] Halt
+[30492] Halt
+[30493] Halt
+[30494] Halt
+[30495] Halt
+[30496] Halt
+[30497] Halt
+[30498] Halt
+[30499] Halt
+[30500] Halt
+[30501] Halt
+[30502] Halt
+[30503] Halt
+[30504] Halt
+[30505] Halt
+[30506] Halt
+[30507] Halt
+[30508] Halt
+[30509] Halt
+[30510] Halt
+[30511] Halt
+[30512] Halt
+[30513] Halt
+[30514] Halt
+[30515] Halt
+[30516] Halt
+[30517] Halt
+[30518] Halt
+[30519] Halt
+[30520] Halt
+[30521] Halt
+[30522] Halt
+[30523] Halt
+[30524] Halt
+[30525] Halt
+[30526] Halt
+[30527] Halt
+[30528] Halt
+[30529] Halt
+[30530] Halt
+[30531] Halt
+[30532] Halt
+[30533] Halt
+[30534] Halt
+[30535] Halt
+[30536] Halt
+[30537] Halt
+[30538] Halt
+[30539] Halt
+[30540] Halt
+[30541] Halt
+[30542] Halt
+[30543] Halt
+[30544] Halt
+[30545] Halt
+[30546] Halt
+[30547] Halt
+[30548] Halt
+[30549] Halt
+[30550] Halt
+[30551] Halt
+[30552] Halt
+[30553] Halt
+[30554] Halt
+[30555] Halt
+[30556] Halt
+[30557] Halt
+[30558] Halt
+[30559] Halt
+[30560] Halt
+[30561] Halt
+[30562] Halt
+[30563] Halt
+[30564] Halt
+[30565] Halt
+[30566] Halt
+[30567] Halt
+[30568] Halt
+[30569] Halt
+[30570] Halt
+[30571] Halt
+[30572] Halt
+[30573] Halt
+[30574] Halt
+[30575] Halt
+[30576] Halt
+[30577] Halt
+[30578] Halt
+[30579] Halt
+[30580] Halt
+[30581] Halt
+[30582] Halt
+[30583] Halt
+[30584] Halt
+[30585] Halt
+[30586] Halt
+[30587] Halt
+[30588] Halt
+[30589] Halt
+[30590] Halt
+[30591] Halt
+[30592] Halt
+[30593] Halt
+[30594] Halt
+[30595] Halt
+[30596] Halt
+[30597] Halt
+[30598] Halt
+[30599] Halt
+[30600] Halt
+[30601] Halt
+[30602] Halt
+[30603] Halt
+[30604] Halt
+[30605] Halt
+[30606] Halt
+[30607] Halt
+[30608] Halt
+[30609] Halt
+[30610] Halt
+[30611] Halt
+[30612] Halt
+[30613] Halt
+[30614] Halt
+[30615] Halt
+[30616] Halt
+[30617] Halt
+[30618] Halt
+[30619] Halt
+[30620] Halt
+[30621] Halt
+[30622] Halt
+[30623] Halt
+[30624] Halt
+[30625] Halt
+[30626] Halt
+[30627] Halt
+[30628] Halt
+[30629] Halt
+[30630] Halt
+[30631] Halt
+[30632] Halt
+[30633] Halt
+[30634] Halt
+[30635] Halt
+[30636] Halt
+[30637] Halt
+[30638] Halt
+[30639] Halt
+[30640] Halt
+[30641] Halt
+[30642] Halt
+[30643] Halt
+[30644] Halt
+[30645] Halt
+[30646] Halt
+[30647] Halt
+[30648] Halt
+[30649] Halt
+[30650] Halt
+[30651] Halt
+[30652] Halt
+[30653] Halt
+[30654] Halt
+[30655] Halt
+[30656] Halt
+[30657] Halt
+[30658] Halt
+[30659] Halt
+[30660] Halt
+[30661] Halt
+[30662] Halt
+[30663] Halt
+[30664] Halt
+[30665] Halt
+[30666] Halt
+[30667] Halt
+[30668] Halt
+[30669] Halt
+[30670] Halt
+[30671] Halt
+[30672] Halt
+[30673] Halt
+[30674] Halt
+[30675] Halt
+[30676] Halt
+[30677] Halt
+[30678] Halt
+[30679] Halt
+[30680] Halt
+[30681] Halt
+[30682] Halt
+[30683] Halt
+[30684] Halt
+[30685] Halt
+[30686] Halt
+[30687] Halt
+[30688] Halt
+[30689] Halt
+[30690] Halt
+[30691] Halt
+[30692] Halt
+[30693] Halt
+[30694] Halt
+[30695] Halt
+[30696] Halt
+[30697] Halt
+[30698] Halt
+[30699] Halt
+[30700] Halt
+[30701] Halt
+[30702] Halt
+[30703] Halt
+[30704] Halt
+[30705] Halt
+[30706] Halt
+[30707] Halt
+[30708] Halt
+[30709] Halt
+[30710] Halt
+[30711] Halt
+[30712] Halt
+[30713] Halt
+[30714] Halt
+[30715] Halt
+[30716] Halt
+[30717] Halt
+[30718] Halt
+[30719] Halt
+[30720] Halt
+[30721] Halt
+[30722] Halt
+[30723] Halt
+[30724] Halt
+[30725] Halt
+[30726] Halt
+[30727] Halt
+[30728] Halt
+[30729] Halt
+[30730] Halt
+[30731] Halt
+[30732] Halt
+[30733] Halt
+[30734] Halt
+[30735] Halt
+[30736] Halt
+[30737] Halt
+[30738] Halt
+[30739] Halt
+[30740] Halt
+[30741] Halt
+[30742] Halt
+[30743] Halt
+[30744] Halt
+[30745] Halt
+[30746] Halt
+[30747] Halt
+[30748] Halt
+[30749] Halt
+[30750] Halt
+[30751] Halt
+[30752] Halt
+[30753] Halt
+[30754] Halt
+[30755] Halt
+[30756] Halt
+[30757] Halt
+[30758] Halt
+[30759] Halt
+[30760] Halt
+[30761] Halt
+[30762] Halt
+[30763] Halt
+[30764] Halt
+[30765] Halt
+[30766] Halt
+[30767] Halt
+[30768] Halt
+[30769] Halt
+[30770] Halt
+[30771] Halt
+[30772] Halt
+[30773] Halt
+[30774] Halt
+[30775] Halt
+[30776] Halt
+[30777] Halt
+[30778] Halt
+[30779] Halt
+[30780] Halt
+[30781] Halt
+[30782] Halt
+[30783] Halt
+[30784] Halt
+[30785] Halt
+[30786] Halt
+[30787] Halt
+[30788] Halt
+[30789] Halt
+[30790] Halt
+[30791] Halt
+[30792] Halt
+[30793] Halt
+[30794] Halt
+[30795] Halt
+[30796] Halt
+[30797] Halt
+[30798] Halt
+[30799] Halt
+[30800] Halt
+[30801] Halt
+[30802] Halt
+[30803] Halt
+[30804] Halt
+[30805] Halt
+[30806] Halt
+[30807] Halt
+[30808] Halt
+[30809] Halt
+[30810] Halt
+[30811] Halt
+[30812] Halt
+[30813] Halt
+[30814] Halt
+[30815] Halt
+[30816] Halt
+[30817] Halt
+[30818] Halt
+[30819] Halt
+[30820] Halt
+[30821] Halt
+[30822] Halt
+[30823] Halt
+[30824] Halt
+[30825] Halt
+[30826] Halt
+[30827] Halt
+[30828] Halt
+[30829] Halt
+[30830] Halt
+[30831] Halt
+[30832] Halt
+[30833] Halt
+[30834] Halt
+[30835] Halt
+[30836] Halt
+[30837] Halt
+[30838] Halt
+[30839] Halt
+[30840] Halt
+[30841] Halt
+[30842] Halt
+[30843] Halt
+[30844] Halt
+[30845] Halt
+[30846] Halt
+[30847] Halt
+[30848] Halt
+[30849] Halt
+[30850] Halt
+[30851] Halt
+[30852] Halt
+[30853] Halt
+[30854] Halt
+[30855] Halt
+[30856] Halt
+[30857] Halt
+[30858] Halt
+[30859] Halt
+[30860] Halt
+[30861] Halt
+[30862] Halt
+[30863] Halt
+[30864] Halt
+[30865] Halt
+[30866] Halt
+[30867] Halt
+[30868] Halt
+[30869] Halt
+[30870] Halt
+[30871] Halt
+[30872] Halt
+[30873] Halt
+[30874] Halt
+[30875] Halt
+[30876] Halt
+[30877] Halt
+[30878] Halt
+[30879] Halt
+[30880] Halt
+[30881] Halt
+[30882] Halt
+[30883] Halt
+[30884] Halt
+[30885] Halt
+[30886] Halt
+[30887] Halt
+[30888] Halt
+[30889] Halt
+[30890] Halt
+[30891] Halt
+[30892] Halt
+[30893] Halt
+[30894] Halt
+[30895] Halt
+[30896] Halt
+[30897] Halt
+[30898] Halt
+[30899] Halt
+[30900] Halt
+[30901] Halt
+[30902] Halt
+[30903] Halt
+[30904] Halt
+[30905] Halt
+[30906] Halt
+[30907] Halt
+[30908] Halt
+[30909] Halt
+[30910] Halt
+[30911] Halt
+[30912] Halt
+[30913] Halt
+[30914] Halt
+[30915] Halt
+[30916] Halt
+[30917] Halt
+[30918] Halt
+[30919] Halt
+[30920] Halt
+[30921] Halt
+[30922] Halt
+[30923] Halt
+[30924] Halt
+[30925] Halt
+[30926] Halt
+[30927] Halt
+[30928] Halt
+[30929] Halt
+[30930] Halt
+[30931] Halt
+[30932] Halt
+[30933] Halt
+[30934] Halt
+[30935] Halt
+[30936] Halt
+[30937] Halt
+[30938] Halt
+[30939] Halt
+[30940] Halt
+[30941] Halt
+[30942] Halt
+[30943] Halt
+[30944] Halt
+[30945] Halt
+[30946] Halt
+[30947] Halt
+[30948] Halt
+[30949] Halt
+[30950] Halt
+[30951] Halt
+[30952] Halt
+[30953] Halt
+[30954] Halt
+[30955] Halt
+[30956] Halt
+[30957] Halt
+[30958] Halt
+[30959] Halt
+[30960] Halt
+[30961] Halt
+[30962] Halt
+[30963] Halt
+[30964] Halt
+[30965] Halt
+[30966] Halt
+[30967] Halt
+[30968] Halt
+[30969] Halt
+[30970] Halt
+[30971] Halt
+[30972] Halt
+[30973] Halt
+[30974] Halt
+[30975] Halt
+[30976] Halt
+[30977] Halt
+[30978] Halt
+[30979] Halt
+[30980] Halt
+[30981] Halt
+[30982] Halt
+[30983] Halt
+[30984] Halt
+[30985] Halt
+[30986] Halt
+[30987] Halt
+[30988] Halt
+[30989] Halt
+[30990] Halt
+[30991] Halt
+[30992] Halt
+[30993] Halt
+[30994] Halt
+[30995] Halt
+[30996] Halt
+[30997] Halt
+[30998] Halt
+[30999] Halt
+[31000] Halt
+[31001] Halt
+[31002] Halt
+[31003] Halt
+[31004] Halt
+[31005] Halt
+[31006] Halt
+[31007] Halt
+[31008] Halt
+[31009] Halt
+[31010] Halt
+[31011] Halt
+[31012] Halt
+[31013] Halt
+[31014] Halt
+[31015] Halt
+[31016] Halt
+[31017] Halt
+[31018] Halt
+[31019] Halt
+[31020] Halt
+[31021] Halt
+[31022] Halt
+[31023] Halt
+[31024] Halt
+[31025] Halt
+[31026] Halt
+[31027] Halt
+[31028] Halt
+[31029] Halt
+[31030] Halt
+[31031] Halt
+[31032] Halt
+[31033] Halt
+[31034] Halt
+[31035] Halt
+[31036] Halt
+[31037] Halt
+[31038] Halt
+[31039] Halt
+[31040] Halt
+[31041] Halt
+[31042] Halt
+[31043] Halt
+[31044] Halt
+[31045] Halt
+[31046] Halt
+[31047] Halt
+[31048] Halt
+[31049] Halt
+[31050] Halt
+[31051] Halt
+[31052] Halt
+[31053] Halt
+[31054] Halt
+[31055] Halt
+[31056] Halt
+[31057] Halt
+[31058] Halt
+[31059] Halt
+[31060] Halt
+[31061] Halt
+[31062] Halt
+[31063] Halt
+[31064] Halt
+[31065] Halt
+[31066] Halt
+[31067] Halt
+[31068] Halt
+[31069] Halt
+[31070] Halt
+[31071] Halt
+[31072] Halt
+[31073] Halt
+[31074] Halt
+[31075] Halt
+[31076] Halt
+[31077] Halt
+[31078] Halt
+[31079] Halt
+[31080] Halt
+[31081] Halt
+[31082] Halt
+[31083] Halt
+[31084] Halt
+[31085] Halt
+[31086] Halt
+[31087] Halt
+[31088] Halt
+[31089] Halt
+[31090] Halt
+[31091] Halt
+[31092] Halt
+[31093] Halt
+[31094] Halt
+[31095] Halt
+[31096] Halt
+[31097] Halt
+[31098] Halt
+[31099] Halt
+[31100] Halt
+[31101] Halt
+[31102] Halt
+[31103] Halt
+[31104] Halt
+[31105] Halt
+[31106] Halt
+[31107] Halt
+[31108] Halt
+[31109] Halt
+[31110] Halt
+[31111] Halt
+[31112] Halt
+[31113] Halt
+[31114] Halt
+[31115] Halt
+[31116] Halt
+[31117] Halt
+[31118] Halt
+[31119] Halt
+[31120] Halt
+[31121] Halt
+[31122] Halt
+[31123] Halt
+[31124] Halt
+[31125] Halt
+[31126] Halt
+[31127] Halt
+[31128] Halt
+[31129] Halt
+[31130] Halt
+[31131] Halt
+[31132] Halt
+[31133] Halt
+[31134] Halt
+[31135] Halt
+[31136] Halt
+[31137] Halt
+[31138] Halt
+[31139] Halt
+[31140] Halt
+[31141] Halt
+[31142] Halt
+[31143] Halt
+[31144] Halt
+[31145] Halt
+[31146] Halt
+[31147] Halt
+[31148] Halt
+[31149] Halt
+[31150] Halt
+[31151] Halt
+[31152] Halt
+[31153] Halt
+[31154] Halt
+[31155] Halt
+[31156] Halt
+[31157] Halt
+[31158] Halt
+[31159] Halt
+[31160] Halt
+[31161] Halt
+[31162] Halt
+[31163] Halt
+[31164] Halt
+[31165] Halt
+[31166] Halt
+[31167] Halt
+[31168] Halt
+[31169] Halt
+[31170] Halt
+[31171] Halt
+[31172] Halt
+[31173] Halt
+[31174] Halt
+[31175] Halt
+[31176] Halt
+[31177] Halt
+[31178] Halt
+[31179] Halt
+[31180] Halt
+[31181] Halt
+[31182] Halt
+[31183] Halt
+[31184] Halt
+[31185] Halt
+[31186] Halt
+[31187] Halt
+[31188] Halt
+[31189] Halt
+[31190] Halt
+[31191] Halt
+[31192] Halt
+[31193] Halt
+[31194] Halt
+[31195] Halt
+[31196] Halt
+[31197] Halt
+[31198] Halt
+[31199] Halt
+[31200] Halt
+[31201] Halt
+[31202] Halt
+[31203] Halt
+[31204] Halt
+[31205] Halt
+[31206] Halt
+[31207] Halt
+[31208] Halt
+[31209] Halt
+[31210] Halt
+[31211] Halt
+[31212] Halt
+[31213] Halt
+[31214] Halt
+[31215] Halt
+[31216] Halt
+[31217] Halt
+[31218] Halt
+[31219] Halt
+[31220] Halt
+[31221] Halt
+[31222] Halt
+[31223] Halt
+[31224] Halt
+[31225] Halt
+[31226] Halt
+[31227] Halt
+[31228] Halt
+[31229] Halt
+[31230] Halt
+[31231] Halt
+[31232] Halt
+[31233] Halt
+[31234] Halt
+[31235] Halt
+[31236] Halt
+[31237] Halt
+[31238] Halt
+[31239] Halt
+[31240] Halt
+[31241] Halt
+[31242] Halt
+[31243] Halt
+[31244] Halt
+[31245] Halt
+[31246] Halt
+[31247] Halt
+[31248] Halt
+[31249] Halt
+[31250] Halt
+[31251] Halt
+[31252] Halt
+[31253] Halt
+[31254] Halt
+[31255] Halt
+[31256] Halt
+[31257] Halt
+[31258] Halt
+[31259] Halt
+[31260] Halt
+[31261] Halt
+[31262] Halt
+[31263] Halt
+[31264] Halt
+[31265] Halt
+[31266] Halt
+[31267] Halt
+[31268] Halt
+[31269] Halt
+[31270] Halt
+[31271] Halt
+[31272] Halt
+[31273] Halt
+[31274] Halt
+[31275] Halt
+[31276] Halt
+[31277] Halt
+[31278] Halt
+[31279] Halt
+[31280] Halt
+[31281] Halt
+[31282] Halt
+[31283] Halt
+[31284] Halt
+[31285] Halt
+[31286] Halt
+[31287] Halt
+[31288] Halt
+[31289] Halt
+[31290] Halt
+[31291] Halt
+[31292] Halt
+[31293] Halt
+[31294] Halt
+[31295] Halt
+[31296] Halt
+[31297] Halt
+[31298] Halt
+[31299] Halt
+[31300] Halt
+[31301] Halt
+[31302] Halt
+[31303] Halt
+[31304] Halt
+[31305] Halt
+[31306] Halt
+[31307] Halt
+[31308] Halt
+[31309] Halt
+[31310] Halt
+[31311] Halt
+[31312] Halt
+[31313] Halt
+[31314] Halt
+[31315] Halt
+[31316] Halt
+[31317] Halt
+[31318] Halt
+[31319] Halt
+[31320] Halt
+[31321] Halt
+[31322] Halt
+[31323] Halt
+[31324] Halt
+[31325] Halt
+[31326] Halt
+[31327] Halt
+[31328] Halt
+[31329] Halt
+[31330] Halt
+[31331] Halt
+[31332] Halt
+[31333] Halt
+[31334] Halt
+[31335] Halt
+[31336] Halt
+[31337] Halt
+[31338] Halt
+[31339] Halt
+[31340] Halt
+[31341] Halt
+[31342] Halt
+[31343] Halt
+[31344] Halt
+[31345] Halt
+[31346] Halt
+[31347] Halt
+[31348] Halt
+[31349] Halt
+[31350] Halt
+[31351] Halt
+[31352] Halt
+[31353] Halt
+[31354] Halt
+[31355] Halt
+[31356] Halt
+[31357] Halt
+[31358] Halt
+[31359] Halt
+[31360] Halt
+[31361] Halt
+[31362] Halt
+[31363] Halt
+[31364] Halt
+[31365] Halt
+[31366] Halt
+[31367] Halt
+[31368] Halt
+[31369] Halt
+[31370] Halt
+[31371] Halt
+[31372] Halt
+[31373] Halt
+[31374] Halt
+[31375] Halt
+[31376] Halt
+[31377] Halt
+[31378] Halt
+[31379] Halt
+[31380] Halt
+[31381] Halt
+[31382] Halt
+[31383] Halt
+[31384] Halt
+[31385] Halt
+[31386] Halt
+[31387] Halt
+[31388] Halt
+[31389] Halt
+[31390] Halt
+[31391] Halt
+[31392] Halt
+[31393] Halt
+[31394] Halt
+[31395] Halt
+[31396] Halt
+[31397] Halt
+[31398] Halt
+[31399] Halt
+[31400] Halt
+[31401] Halt
+[31402] Halt
+[31403] Halt
+[31404] Halt
+[31405] Halt
+[31406] Halt
+[31407] Halt
+[31408] Halt
+[31409] Halt
+[31410] Halt
+[31411] Halt
+[31412] Halt
+[31413] Halt
+[31414] Halt
+[31415] Halt
+[31416] Halt
+[31417] Halt
+[31418] Halt
+[31419] Halt
+[31420] Halt
+[31421] Halt
+[31422] Halt
+[31423] Halt
+[31424] Halt
+[31425] Halt
+[31426] Halt
+[31427] Halt
+[31428] Halt
+[31429] Halt
+[31430] Halt
+[31431] Halt
+[31432] Halt
+[31433] Halt
+[31434] Halt
+[31435] Halt
+[31436] Halt
+[31437] Halt
+[31438] Halt
+[31439] Halt
+[31440] Halt
+[31441] Halt
+[31442] Halt
+[31443] Halt
+[31444] Halt
+[31445] Halt
+[31446] Halt
+[31447] Halt
+[31448] Halt
+[31449] Halt
+[31450] Halt
+[31451] Halt
+[31452] Halt
+[31453] Halt
+[31454] Halt
+[31455] Halt
+[31456] Halt
+[31457] Halt
+[31458] Halt
+[31459] Halt
+[31460] Halt
+[31461] Halt
+[31462] Halt
+[31463] Halt
+[31464] Halt
+[31465] Halt
+[31466] Halt
+[31467] Halt
+[31468] Halt
+[31469] Halt
+[31470] Halt
+[31471] Halt
+[31472] Halt
+[31473] Halt
+[31474] Halt
+[31475] Halt
+[31476] Halt
+[31477] Halt
+[31478] Halt
+[31479] Halt
+[31480] Halt
+[31481] Halt
+[31482] Halt
+[31483] Halt
+[31484] Halt
+[31485] Halt
+[31486] Halt
+[31487] Halt
+[31488] Halt
+[31489] Halt
+[31490] Halt
+[31491] Halt
+[31492] Halt
+[31493] Halt
+[31494] Halt
+[31495] Halt
+[31496] Halt
+[31497] Halt
+[31498] Halt
+[31499] Halt
+[31500] Halt
+[31501] Halt
+[31502] Halt
+[31503] Halt
+[31504] Halt
+[31505] Halt
+[31506] Halt
+[31507] Halt
+[31508] Halt
+[31509] Halt
+[31510] Halt
+[31511] Halt
+[31512] Halt
+[31513] Halt
+[31514] Halt
+[31515] Halt
+[31516] Halt
+[31517] Halt
+[31518] Halt
+[31519] Halt
+[31520] Halt
+[31521] Halt
+[31522] Halt
+[31523] Halt
+[31524] Halt
+[31525] Halt
+[31526] Halt
+[31527] Halt
+[31528] Halt
+[31529] Halt
+[31530] Halt
+[31531] Halt
+[31532] Halt
+[31533] Halt
+[31534] Halt
+[31535] Halt
+[31536] Halt
+[31537] Halt
+[31538] Halt
+[31539] Halt
+[31540] Halt
+[31541] Halt
+[31542] Halt
+[31543] Halt
+[31544] Halt
+[31545] Halt
+[31546] Halt
+[31547] Halt
+[31548] Halt
+[31549] Halt
+[31550] Halt
+[31551] Halt
+[31552] Halt
+[31553] Halt
+[31554] Halt
+[31555] Halt
+[31556] Halt
+[31557] Halt
+[31558] Halt
+[31559] Halt
+[31560] Halt
+[31561] Halt
+[31562] Halt
+[31563] Halt
+[31564] Halt
+[31565] Halt
+[31566] Halt
+[31567] Halt
+[31568] Halt
+[31569] Halt
+[31570] Halt
+[31571] Halt
+[31572] Halt
+[31573] Halt
+[31574] Halt
+[31575] Halt
+[31576] Halt
+[31577] Halt
+[31578] Halt
+[31579] Halt
+[31580] Halt
+[31581] Halt
+[31582] Halt
+[31583] Halt
+[31584] Halt
+[31585] Halt
+[31586] Halt
+[31587] Halt
+[31588] Halt
+[31589] Halt
+[31590] Halt
+[31591] Halt
+[31592] Halt
+[31593] Halt
+[31594] Halt
+[31595] Halt
+[31596] Halt
+[31597] Halt
+[31598] Halt
+[31599] Halt
+[31600] Halt
+[31601] Halt
+[31602] Halt
+[31603] Halt
+[31604] Halt
+[31605] Halt
+[31606] Halt
+[31607] Halt
+[31608] Halt
+[31609] Halt
+[31610] Halt
+[31611] Halt
+[31612] Halt
+[31613] Halt
+[31614] Halt
+[31615] Halt
+[31616] Halt
+[31617] Halt
+[31618] Halt
+[31619] Halt
+[31620] Halt
+[31621] Halt
+[31622] Halt
+[31623] Halt
+[31624] Halt
+[31625] Halt
+[31626] Halt
+[31627] Halt
+[31628] Halt
+[31629] Halt
+[31630] Halt
+[31631] Halt
+[31632] Halt
+[31633] Halt
+[31634] Halt
+[31635] Halt
+[31636] Halt
+[31637] Halt
+[31638] Halt
+[31639] Halt
+[31640] Halt
+[31641] Halt
+[31642] Halt
+[31643] Halt
+[31644] Halt
+[31645] Halt
+[31646] Halt
+[31647] Halt
+[31648] Halt
+[31649] Halt
+[31650] Halt
+[31651] Halt
+[31652] Halt
+[31653] Halt
+[31654] Halt
+[31655] Halt
+[31656] Halt
+[31657] Halt
+[31658] Halt
+[31659] Halt
+[31660] Halt
+[31661] Halt
+[31662] Halt
+[31663] Halt
+[31664] Halt
+[31665] Halt
+[31666] Halt
+[31667] Halt
+[31668] Halt
+[31669] Halt
+[31670] Halt
+[31671] Halt
+[31672] Halt
+[31673] Halt
+[31674] Halt
+[31675] Halt
+[31676] Halt
+[31677] Halt
+[31678] Halt
+[31679] Halt
+[31680] Halt
+[31681] Halt
+[31682] Halt
+[31683] Halt
+[31684] Halt
+[31685] Halt
+[31686] Halt
+[31687] Halt
+[31688] Halt
+[31689] Halt
+[31690] Halt
+[31691] Halt
+[31692] Halt
+[31693] Halt
+[31694] Halt
+[31695] Halt
+[31696] Halt
+[31697] Halt
+[31698] Halt
+[31699] Halt
+[31700] Halt
+[31701] Halt
+[31702] Halt
+[31703] Halt
+[31704] Halt
+[31705] Halt
+[31706] Halt
+[31707] Halt
+[31708] Halt
+[31709] Halt
+[31710] Halt
+[31711] Halt
+[31712] Halt
+[31713] Halt
+[31714] Halt
+[31715] Halt
+[31716] Halt
+[31717] Halt
+[31718] Halt
+[31719] Halt
+[31720] Halt
+[31721] Halt
+[31722] Halt
+[31723] Halt
+[31724] Halt
+[31725] Halt
+[31726] Halt
+[31727] Halt
+[31728] Halt
+[31729] Halt
+[31730] Halt
+[31731] Halt
+[31732] Halt
+[31733] Halt
+[31734] Halt
+[31735] Halt
+[31736] Halt
+[31737] Halt
+[31738] Halt
+[31739] Halt
+[31740] Halt
+[31741] Halt
+[31742] Halt
+[31743] Halt
+[31744] Halt
+[31745] Halt
+[31746] Halt
+[31747] Halt
+[31748] Halt
+[31749] Halt
+[31750] Halt
+[31751] Halt
+[31752] Halt
+[31753] Halt
+[31754] Halt
+[31755] Halt
+[31756] Halt
+[31757] Halt
+[31758] Halt
+[31759] Halt
+[31760] Halt
+[31761] Halt
+[31762] Halt
+[31763] Halt
+[31764] Halt
+[31765] Halt
+[31766] Halt
+[31767] Halt
+[31768] Halt
+[31769] Halt
+[31770] Halt
+[31771] Halt
+[31772] Halt
+[31773] Halt
+[31774] Halt
+[31775] Halt
+[31776] Halt
+[31777] Halt
+[31778] Halt
+[31779] Halt
+[31780] Halt
+[31781] Halt
+[31782] Halt
+[31783] Halt
+[31784] Halt
+[31785] Halt
+[31786] Halt
+[31787] Halt
+[31788] Halt
+[31789] Halt
+[31790] Halt
+[31791] Halt
+[31792] Halt
+[31793] Halt
+[31794] Halt
+[31795] Halt
+[31796] Halt
+[31797] Halt
+[31798] Halt
+[31799] Halt
+[31800] Halt
+[31801] Halt
+[31802] Halt
+[31803] Halt
+[31804] Halt
+[31805] Halt
+[31806] Halt
+[31807] Halt
+[31808] Halt
+[31809] Halt
+[31810] Halt
+[31811] Halt
+[31812] Halt
+[31813] Halt
+[31814] Halt
+[31815] Halt
+[31816] Halt
+[31817] Halt
+[31818] Halt
+[31819] Halt
+[31820] Halt
+[31821] Halt
+[31822] Halt
+[31823] Halt
+[31824] Halt
+[31825] Halt
+[31826] Halt
+[31827] Halt
+[31828] Halt
+[31829] Halt
+[31830] Halt
+[31831] Halt
+[31832] Halt
+[31833] Halt
+[31834] Halt
+[31835] Halt
+[31836] Halt
+[31837] Halt
+[31838] Halt
+[31839] Halt
+[31840] Halt
+[31841] Halt
+[31842] Halt
+[31843] Halt
+[31844] Halt
+[31845] Halt
+[31846] Halt
+[31847] Halt
+[31848] Halt
+[31849] Halt
+[31850] Halt
+[31851] Halt
+[31852] Halt
+[31853] Halt
+[31854] Halt
+[31855] Halt
+[31856] Halt
+[31857] Halt
+[31858] Halt
+[31859] Halt
+[31860] Halt
+[31861] Halt
+[31862] Halt
+[31863] Halt
+[31864] Halt
+[31865] Halt
+[31866] Halt
+[31867] Halt
+[31868] Halt
+[31869] Halt
+[31870] Halt
+[31871] Halt
+[31872] Halt
+[31873] Halt
+[31874] Halt
+[31875] Halt
+[31876] Halt
+[31877] Halt
+[31878] Halt
+[31879] Halt
+[31880] Halt
+[31881] Halt
+[31882] Halt
+[31883] Halt
+[31884] Halt
+[31885] Halt
+[31886] Halt
+[31887] Halt
+[31888] Halt
+[31889] Halt
+[31890] Halt
+[31891] Halt
+[31892] Halt
+[31893] Halt
+[31894] Halt
+[31895] Halt
+[31896] Halt
+[31897] Halt
+[31898] Halt
+[31899] Halt
+[31900] Halt
+[31901] Halt
+[31902] Halt
+[31903] Halt
+[31904] Halt
+[31905] Halt
+[31906] Halt
+[31907] Halt
+[31908] Halt
+[31909] Halt
+[31910] Halt
+[31911] Halt
+[31912] Halt
+[31913] Halt
+[31914] Halt
+[31915] Halt
+[31916] Halt
+[31917] Halt
+[31918] Halt
+[31919] Halt
+[31920] Halt
+[31921] Halt
+[31922] Halt
+[31923] Halt
+[31924] Halt
+[31925] Halt
+[31926] Halt
+[31927] Halt
+[31928] Halt
+[31929] Halt
+[31930] Halt
+[31931] Halt
+[31932] Halt
+[31933] Halt
+[31934] Halt
+[31935] Halt
+[31936] Halt
+[31937] Halt
+[31938] Halt
+[31939] Halt
+[31940] Halt
+[31941] Halt
+[31942] Halt
+[31943] Halt
+[31944] Halt
+[31945] Halt
+[31946] Halt
+[31947] Halt
+[31948] Halt
+[31949] Halt
+[31950] Halt
+[31951] Halt
+[31952] Halt
+[31953] Halt
+[31954] Halt
+[31955] Halt
+[31956] Halt
+[31957] Halt
+[31958] Halt
+[31959] Halt
+[31960] Halt
+[31961] Halt
+[31962] Halt
+[31963] Halt
+[31964] Halt
+[31965] Halt
+[31966] Halt
+[31967] Halt
+[31968] Halt
+[31969] Halt
+[31970] Halt
+[31971] Halt
+[31972] Halt
+[31973] Halt
+[31974] Halt
+[31975] Halt
+[31976] Halt
+[31977] Halt
+[31978] Halt
+[31979] Halt
+[31980] Halt
+[31981] Halt
+[31982] Halt
+[31983] Halt
+[31984] Halt
+[31985] Halt
+[31986] Halt
+[31987] Halt
+[31988] Halt
+[31989] Halt
+[31990] Halt
+[31991] Halt
+[31992] Halt
+[31993] Halt
+[31994] Halt
+[31995] Halt
+[31996] Halt
+[31997] Halt
+[31998] Halt
+[31999] Halt
+[32000] Halt
+[32001] Halt
+[32002] Halt
+[32003] Halt
+[32004] Halt
+[32005] Halt
+[32006] Halt
+[32007] Halt
+[32008] Halt
+[32009] Halt
+[32010] Halt
+[32011] Halt
+[32012] Halt
+[32013] Halt
+[32014] Halt
+[32015] Halt
+[32016] Halt
+[32017] Halt
+[32018] Halt
+[32019] Halt
+[32020] Halt
+[32021] Halt
+[32022] Halt
+[32023] Halt
+[32024] Halt
+[32025] Halt
+[32026] Halt
+[32027] Halt
+[32028] Halt
+[32029] Halt
+[32030] Halt
+[32031] Halt
+[32032] Halt
+[32033] Halt
+[32034] Halt
+[32035] Halt
+[32036] Halt
+[32037] Halt
+[32038] Halt
+[32039] Halt
+[32040] Halt
+[32041] Halt
+[32042] Halt
+[32043] Halt
+[32044] Halt
+[32045] Halt
+[32046] Halt
+[32047] Halt
+[32048] Halt
+[32049] Halt
+[32050] Halt
+[32051] Halt
+[32052] Halt
+[32053] Halt
+[32054] Halt
+[32055] Halt
+[32056] Halt
+[32057] Halt
+[32058] Halt
+[32059] Halt
+[32060] Halt
+[32061] Halt
+[32062] Halt
+[32063] Halt
+[32064] Halt
+[32065] Halt
+[32066] Halt
+[32067] Halt
+[32068] Halt
+[32069] Halt
+[32070] Halt
+[32071] Halt
+[32072] Halt
+[32073] Halt
+[32074] Halt
+[32075] Halt
+[32076] Halt
+[32077] Halt
+[32078] Halt
+[32079] Halt
+[32080] Halt
+[32081] Halt
+[32082] Halt
+[32083] Halt
+[32084] Halt
+[32085] Halt
+[32086] Halt
+[32087] Halt
+[32088] Halt
+[32089] Halt
+[32090] Halt
+[32091] Halt
+[32092] Halt
+[32093] Halt
+[32094] Halt
+[32095] Halt
+[32096] Halt
+[32097] Halt
+[32098] Halt
+[32099] Halt
+[32100] Halt
+[32101] Halt
+[32102] Halt
+[32103] Halt
+[32104] Halt
+[32105] Halt
+[32106] Halt
+[32107] Halt
+[32108] Halt
+[32109] Halt
+[32110] Halt
+[32111] Halt
+[32112] Halt
+[32113] Halt
+[32114] Halt
+[32115] Halt
+[32116] Halt
+[32117] Halt
+[32118] Halt
+[32119] Halt
+[32120] Halt
+[32121] Halt
+[32122] Halt
+[32123] Halt
+[32124] Halt
+[32125] Halt
+[32126] Halt
+[32127] Halt
+[32128] Halt
+[32129] Halt
+[32130] Halt
+[32131] Halt
+[32132] Halt
+[32133] Halt
+[32134] Halt
+[32135] Halt
+[32136] Halt
+[32137] Halt
+[32138] Halt
+[32139] Halt
+[32140] Halt
+[32141] Halt
+[32142] Halt
+[32143] Halt
+[32144] Halt
+[32145] Halt
+[32146] Halt
+[32147] Halt
+[32148] Halt
+[32149] Halt
+[32150] Halt
+[32151] Halt
+[32152] Halt
+[32153] Halt
+[32154] Halt
+[32155] Halt
+[32156] Halt
+[32157] Halt
+[32158] Halt
+[32159] Halt
+[32160] Halt
+[32161] Halt
+[32162] Halt
+[32163] Halt
+[32164] Halt
+[32165] Halt
+[32166] Halt
+[32167] Halt
+[32168] Halt
+[32169] Halt
+[32170] Halt
+[32171] Halt
+[32172] Halt
+[32173] Halt
+[32174] Halt
+[32175] Halt
+[32176] Halt
+[32177] Halt
+[32178] Halt
+[32179] Halt
+[32180] Halt
+[32181] Halt
+[32182] Halt
+[32183] Halt
+[32184] Halt
+[32185] Halt
+[32186] Halt
+[32187] Halt
+[32188] Halt
+[32189] Halt
+[32190] Halt
+[32191] Halt
+[32192] Halt
+[32193] Halt
+[32194] Halt
+[32195] Halt
+[32196] Halt
+[32197] Halt
+[32198] Halt
+[32199] Halt
+[32200] Halt
+[32201] Halt
+[32202] Halt
+[32203] Halt
+[32204] Halt
+[32205] Halt
+[32206] Halt
+[32207] Halt
+[32208] Halt
+[32209] Halt
+[32210] Halt
+[32211] Halt
+[32212] Halt
+[32213] Halt
+[32214] Halt
+[32215] Halt
+[32216] Halt
+[32217] Halt
+[32218] Halt
+[32219] Halt
+[32220] Halt
+[32221] Halt
+[32222] Halt
+[32223] Halt
+[32224] Halt
+[32225] Halt
+[32226] Halt
+[32227] Halt
+[32228] Halt
+[32229] Halt
+[32230] Halt
+[32231] Halt
+[32232] Halt
+[32233] Halt
+[32234] Halt
+[32235] Halt
+[32236] Halt
+[32237] Halt
+[32238] Halt
+[32239] Halt
+[32240] Halt
+[32241] Halt
+[32242] Halt
+[32243] Halt
+[32244] Halt
+[32245] Halt
+[32246] Halt
+[32247] Halt
+[32248] Halt
+[32249] Halt
+[32250] Halt
+[32251] Halt
+[32252] Halt
+[32253] Halt
+[32254] Halt
+[32255] Halt
+[32256] Halt
+[32257] Halt
+[32258] Halt
+[32259] Halt
+[32260] Halt
+[32261] Halt
+[32262] Halt
+[32263] Halt
+[32264] Halt
+[32265] Halt
+[32266] Halt
+[32267] Halt
+[32268] Halt
+[32269] Halt
+[32270] Halt
+[32271] Halt
+[32272] Halt
+[32273] Halt
+[32274] Halt
+[32275] Halt
+[32276] Halt
+[32277] Halt
+[32278] Halt
+[32279] Halt
+[32280] Halt
+[32281] Halt
+[32282] Halt
+[32283] Halt
+[32284] Halt
+[32285] Halt
+[32286] Halt
+[32287] Halt
+[32288] Halt
+[32289] Halt
+[32290] Halt
+[32291] Halt
+[32292] Halt
+[32293] Halt
+[32294] Halt
+[32295] Halt
+[32296] Halt
+[32297] Halt
+[32298] Halt
+[32299] Halt
+[32300] Halt
+[32301] Halt
+[32302] Halt
+[32303] Halt
+[32304] Halt
+[32305] Halt
+[32306] Halt
+[32307] Halt
+[32308] Halt
+[32309] Halt
+[32310] Halt
+[32311] Halt
+[32312] Halt
+[32313] Halt
+[32314] Halt
+[32315] Halt
+[32316] Halt
+[32317] Halt
+[32318] Halt
+[32319] Halt
+[32320] Halt
+[32321] Halt
+[32322] Halt
+[32323] Halt
+[32324] Halt
+[32325] Halt
+[32326] Halt
+[32327] Halt
+[32328] Halt
+[32329] Halt
+[32330] Halt
+[32331] Halt
+[32332] Halt
+[32333] Halt
+[32334] Halt
+[32335] Halt
+[32336] Halt
+[32337] Halt
+[32338] Halt
+[32339] Halt
+[32340] Halt
+[32341] Halt
+[32342] Halt
+[32343] Halt
+[32344] Halt
+[32345] Halt
+[32346] Halt
+[32347] Halt
+[32348] Halt
+[32349] Halt
+[32350] Halt
+[32351] Halt
+[32352] Halt
+[32353] Halt
+[32354] Halt
+[32355] Halt
+[32356] Halt
+[32357] Halt
+[32358] Halt
+[32359] Halt
+[32360] Halt
+[32361] Halt
+[32362] Halt
+[32363] Halt
+[32364] Halt
+[32365] Halt
+[32366] Halt
+[32367] Halt
+[32368] Halt
+[32369] Halt
+[32370] Halt
+[32371] Halt
+[32372] Halt
+[32373] Halt
+[32374] Halt
+[32375] Halt
+[32376] Halt
+[32377] Halt
+[32378] Halt
+[32379] Halt
+[32380] Halt
+[32381] Halt
+[32382] Halt
+[32383] Halt
+[32384] Halt
+[32385] Halt
+[32386] Halt
+[32387] Halt
+[32388] Halt
+[32389] Halt
+[32390] Halt
+[32391] Halt
+[32392] Halt
+[32393] Halt
+[32394] Halt
+[32395] Halt
+[32396] Halt
+[32397] Halt
+[32398] Halt
+[32399] Halt
+[32400] Halt
+[32401] Halt
+[32402] Halt
+[32403] Halt
+[32404] Halt
+[32405] Halt
+[32406] Halt
+[32407] Halt
+[32408] Halt
+[32409] Halt
+[32410] Halt
+[32411] Halt
+[32412] Halt
+[32413] Halt
+[32414] Halt
+[32415] Halt
+[32416] Halt
+[32417] Halt
+[32418] Halt
+[32419] Halt
+[32420] Halt
+[32421] Halt
+[32422] Halt
+[32423] Halt
+[32424] Halt
+[32425] Halt
+[32426] Halt
+[32427] Halt
+[32428] Halt
+[32429] Halt
+[32430] Halt
+[32431] Halt
+[32432] Halt
+[32433] Halt
+[32434] Halt
+[32435] Halt
+[32436] Halt
+[32437] Halt
+[32438] Halt
+[32439] Halt
+[32440] Halt
+[32441] Halt
+[32442] Halt
+[32443] Halt
+[32444] Halt
+[32445] Halt
+[32446] Halt
+[32447] Halt
+[32448] Halt
+[32449] Halt
+[32450] Halt
+[32451] Halt
+[32452] Halt
+[32453] Halt
+[32454] Halt
+[32455] Halt
+[32456] Halt
+[32457] Halt
+[32458] Halt
+[32459] Halt
+[32460] Halt
+[32461] Halt
+[32462] Halt
+[32463] Halt
+[32464] Halt
+[32465] Halt
+[32466] Halt
+[32467] Halt
+[32468] Halt
+[32469] Halt
+[32470] Halt
+[32471] Halt
+[32472] Halt
+[32473] Halt
+[32474] Halt
+[32475] Halt
+[32476] Halt
+[32477] Halt
+[32478] Halt
+[32479] Halt
+[32480] Halt
+[32481] Halt
+[32482] Halt
+[32483] Halt
+[32484] Halt
+[32485] Halt
+[32486] Halt
+[32487] Halt
+[32488] Halt
+[32489] Halt
+[32490] Halt
+[32491] Halt
+[32492] Halt
+[32493] Halt
+[32494] Halt
+[32495] Halt
+[32496] Halt
+[32497] Halt
+[32498] Halt
+[32499] Halt
+[32500] Halt
+[32501] Halt
+[32502] Halt
+[32503] Halt
+[32504] Halt
+[32505] Halt
+[32506] Halt
+[32507] Halt
+[32508] Halt
+[32509] Halt
+[32510] Halt
+[32511] Halt
+[32512] Halt
+[32513] Halt
+[32514] Halt
+[32515] Halt
+[32516] Halt
+[32517] Halt
+[32518] Halt
+[32519] Halt
+[32520] Halt
+[32521] Halt
+[32522] Halt
+[32523] Halt
+[32524] Halt
+[32525] Halt
+[32526] Halt
+[32527] Halt
+[32528] Halt
+[32529] Halt
+[32530] Halt
+[32531] Halt
+[32532] Halt
+[32533] Halt
+[32534] Halt
+[32535] Halt
+[32536] Halt
+[32537] Halt
+[32538] Halt
+[32539] Halt
+[32540] Halt
+[32541] Halt
+[32542] Halt
+[32543] Halt
+[32544] Halt
+[32545] Halt
+[32546] Halt
+[32547] Halt
+[32548] Halt
+[32549] Halt
+[32550] Halt
+[32551] Halt
+[32552] Halt
+[32553] Halt
+[32554] Halt
+[32555] Halt
+[32556] Halt
+[32557] Halt
+[32558] Halt
+[32559] Halt
+[32560] Halt
+[32561] Halt
+[32562] Halt
+[32563] Halt
+[32564] Halt
+[32565] Halt
+[32566] Halt
+[32567] Halt
+[32568] Halt
+[32569] Halt
+[32570] Halt
+[32571] Halt
+[32572] Halt
+[32573] Halt
+[32574] Halt
+[32575] Halt
+[32576] Halt
+[32577] Halt
+[32578] Halt
+[32579] Halt
+[32580] Halt
+[32581] Halt
+[32582] Halt
+[32583] Halt
+[32584] Halt
+[32585] Halt
+[32586] Halt
+[32587] Halt
+[32588] Halt
+[32589] Halt
+[32590] Halt
+[32591] Halt
+[32592] Halt
+[32593] Halt
+[32594] Halt
+[32595] Halt
+[32596] Halt
+[32597] Halt
+[32598] Halt
+[32599] Halt
+[32600] Halt
+[32601] Halt
+[32602] Halt
+[32603] Halt
+[32604] Halt
+[32605] Halt
+[32606] Halt
+[32607] Halt
+[32608] Halt
+[32609] Halt
+[32610] Halt
+[32611] Halt
+[32612] Halt
+[32613] Halt
+[32614] Halt
+[32615] Halt
+[32616] Halt
+[32617] Halt
+[32618] Halt
+[32619] Halt
+[32620] Halt
+[32621] Halt
+[32622] Halt
+[32623] Halt
+[32624] Halt
+[32625] Halt
+[32626] Halt
+[32627] Halt
+[32628] Halt
+[32629] Halt
+[32630] Halt
+[32631] Halt
+[32632] Halt
+[32633] Halt
+[32634] Halt
+[32635] Halt
+[32636] Halt
+[32637] Halt
+[32638] Halt
+[32639] Halt
+[32640] Halt
+[32641] Halt
+[32642] Halt
+[32643] Halt
+[32644] Halt
+[32645] Halt
+[32646] Halt
+[32647] Halt
+[32648] Halt
+[32649] Halt
+[32650] Halt
+[32651] Halt
+[32652] Halt
+[32653] Halt
+[32654] Halt
+[32655] Halt
+[32656] Halt
+[32657] Halt
+[32658] Halt
+[32659] Halt
+[32660] Halt
+[32661] Halt
+[32662] Halt
+[32663] Halt
+[32664] Halt
+[32665] Halt
+[32666] Halt
+[32667] Halt
+[32668] Halt
+[32669] Halt
+[32670] Halt
+[32671] Halt
+[32672] Halt
+[32673] Halt
+[32674] Halt
+[32675] Halt
+[32676] Halt
+[32677] Halt
+[32678] Halt
+[32679] Halt
+[32680] Halt
+[32681] Halt
+[32682] Halt
+[32683] Halt
+[32684] Halt
+[32685] Halt
+[32686] Halt
+[32687] Halt
+[32688] Halt
+[32689] Halt
+[32690] Halt
+[32691] Halt
+[32692] Halt
+[32693] Halt
+[32694] Halt
+[32695] Halt
+[32696] Halt
+[32697] Halt
+[32698] Halt
+[32699] Halt
+[32700] Halt
+[32701] Halt
+[32702] Halt
+[32703] Halt
+[32704] Halt
+[32705] Halt
+[32706] Halt
+[32707] Halt
+[32708] Halt
+[32709] Halt
+[32710] Halt
+[32711] Halt
+[32712] Halt
+[32713] Halt
+[32714] Halt
+[32715] Halt
+[32716] Halt
+[32717] Halt
+[32718] Halt
+[32719] Halt
+[32720] Halt
+[32721] Halt
+[32722] Halt
+[32723] Halt
+[32724] Halt
+[32725] Halt
+[32726] Halt
+[32727] Halt
+[32728] Halt
+[32729] Halt
+[32730] Halt
+[32731] Halt
+[32732] Halt
+[32733] Halt
+[32734] Halt
+[32735] Halt
+[32736] Halt
+[32737] Halt
+[32738] Halt
+[32739] Halt
+[32740] Halt
+[32741] Halt
+[32742] Halt
+[32743] Halt
+[32744] Halt
+[32745] Halt
+[32746] Halt
+[32747] Halt
+[32748] Halt
+[32749] Halt
+[32750] Halt
+[32751] Halt
+[32752] Halt
+[32753] Halt
+[32754] Halt
+[32755] Halt
+[32756] Halt
+[32757] Halt
+[32758] Halt
+[32759] Halt
+[32760] Halt
+[32761] Halt
+[32762] Halt
+[32763] Halt
+[32764] Halt
+[32765] Halt
+[32766] Halt
+[32767] Halt
