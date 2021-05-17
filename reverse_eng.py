@@ -26,22 +26,17 @@ def check(a, b, h):
         f6027()
     return a, b
 
-def s(a, b, h):
+# Based on the ackermann table, the solution for 4 1 1 would be 65533
+# how does h affect this result?
+
+def smpl(a, b, h):
     if a == 0:
-        return b + 1, b
+        return b + 1
     else:
         if b == 0:
-            a, b = s(a - 1, h, h)
-            return a, b
+            return smpl(a - 1, h, h)
         else:
-            b, _ = s(a, b - 1, h)
-            a, b = s(a - 1, b, h)
-    return a, b
-
-def f6027(a, b, h):
-    # after a lot of trials I think the formula is b * (h + 1) + a * h
-    b = a ** (b * h)
-    return b + 1, b
+            return smpl(a - 1, smpl(a, b - 1, h), h)
 
 import sys
 
@@ -53,10 +48,5 @@ if __name__ == '__main__':
     b = int(sys.argv[2])
     h = int(sys.argv[3])
 
-    print("ctrl", check(a, b, h))
-    print("smpl", s(a, b, h))
-    print("frml", f6027(a, b, h))
-
-    # for i in range(mod):
-    #     if f6027(4, 1, i) % mod == 5:
-    #         print(i)
+    print("ctrl", check(a, b, h)[0])
+    print("smpl", smpl(a, b, h))
