@@ -35,14 +35,13 @@ pub struct Program {
 }
 
 impl Program {
-    pub fn new(bytes: Vec<u8>, register8: u16) -> Self {
+    pub fn new(bytes: Vec<u8>) -> Self {
         let mut memory = Memory::new();
         let input_buffer = InputBuffer {
             buffer: vec![],
             cursor: 0,
         };
         memory.load(bytes);
-        memory.set_register(7, register8);
         Self {
             cursor: 0,
             memory,
@@ -143,7 +142,7 @@ impl Program {
 
         if value as char == '!' {
             log::debug!("overriding register");
-            self.memory.set_register(7, 666);
+            self.memory.set_register(7, 13108);
             value = self.input_buffer.next()
         }
 
@@ -277,10 +276,13 @@ impl Program {
         let val = self.val(val);
         // 6027 is the test function. Let's dump the program when it's called
         if val == 6027 {
-            self.dump()
+            self.dump();
+            self.memory.set_register(0, 6);
+            self.cursor += 1;
+        } else {
+            self.memory.push((self.cursor + 1) as u16);
+            self.cursor = val as usize;
         }
-        self.memory.push((self.cursor + 1) as u16);
-        self.cursor = val as usize;
         false
     }
 

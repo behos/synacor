@@ -31,25 +31,15 @@ def check(h):
 
     return b == 6
 
-# post execution b should match 6, so what value should h start with
+def f6027(a, b, h):
+    # after a lot of trials I think the formula is b * (h + 1) + a * h
+    return b * (h + 1) + a * h
 
-def refactored_check(h):
+import sys
 
-    def f6027(depth, a, b):
-        print(a, b, f"d:{depth}")
-        if a == 0:
-            print(b + 1, b, f"ret:{depth}")
-            return b + 1, b
-        else:
-            if b == 0:
-                a, b = f6027(depth + 1, a - 1, h)
-                print(a, b, f"ret:{depth}")
-                return a, b
-            else:
-                b, _ = f6027(depth + 1, a, b - 1)
-                a, b = f6027(depth + 1, a - 1, b)
-                print(a, b, f"ret:{depth}")
-                return a, b
+mod = 32768
 
-    a, b = f6027(0, 4,1)
-    return b == 6
+if __name__ == '__main__':
+    for i in range(mod):
+        if f6027(4, 1, i) % mod == 6:
+            print(i)
