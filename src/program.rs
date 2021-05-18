@@ -142,7 +142,7 @@ impl Program {
 
         if value as char == '!' {
             log::debug!("overriding register");
-            self.memory.set_register(7, 13108);
+            self.memory.set_register(7, 25734);
             value = self.input_buffer.next()
         }
 
